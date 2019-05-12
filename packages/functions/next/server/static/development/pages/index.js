@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -105,9 +105,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ "c
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -116,9 +116,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "cor
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/json/stringify.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/json/stringify.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -127,9 +127,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/json/stringify */ "c
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -138,9 +138,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -149,9 +149,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
-  \****************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -160,9 +160,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \**************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -171,9 +171,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/freeze.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/freeze.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -182,9 +182,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/freeze */ "co
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \**************************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -193,9 +193,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
-  \***********************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -204,9 +204,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \***************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -215,9 +215,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -226,9 +226,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "core
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \***************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -236,21 +236,10 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 
 /***/ }),
 
-/***/ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
-  \*********************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */ "core-js/library/fn/reflect/construct");
-
-/***/ }),
-
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -259,9 +248,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "core-js/l
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -270,9 +259,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -289,9 +278,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -305,55 +294,10 @@ module.exports = _classCallCheck;
 
 /***/ }),
 
-/***/ "../../node_modules/@babel/runtime-corejs2/helpers/construct.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
-  \*************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-var _Reflect$construct = __webpack_require__(/*! ../core-js/reflect/construct */ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js");
-
-var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf */ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js");
-
-function isNativeReflectConstruct() {
-  if (typeof Reflect === "undefined" || !_Reflect$construct) return false;
-  if (_Reflect$construct.sham) return false;
-  if (typeof Proxy === "function") return true;
-
-  try {
-    Date.prototype.toString.call(_Reflect$construct(Date, [], function () {}));
-    return true;
-  } catch (e) {
-    return false;
-  }
-}
-
-function _construct(Parent, args, Class) {
-  if (isNativeReflectConstruct()) {
-    module.exports = _construct = _Reflect$construct;
-  } else {
-    module.exports = _construct = function _construct(Parent, args, Class) {
-      var a = [null];
-      a.push.apply(a, args);
-      var Constructor = Function.bind.apply(Parent, a);
-      var instance = new Constructor();
-      if (Class) setPrototypeOf(instance, Class.prototype);
-      return instance;
-    };
-  }
-
-  return _construct.apply(null, arguments);
-}
-
-module.exports = _construct;
-
-/***/ }),
-
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -381,9 +325,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -400,9 +344,9 @@ function _arrayWithHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -430,9 +374,9 @@ function _defineProperty(obj, key, value) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/extends.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -463,9 +407,9 @@ function _extends() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
-  \****************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -504,9 +448,9 @@ function _iterableToArrayLimit(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -520,9 +464,9 @@ function _nonIterableRest() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
-  \********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/objectSpread.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -563,9 +507,9 @@ function _objectSpread(target) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
-  \*******************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -599,9 +543,9 @@ function _objectWithoutProperties(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
-  \************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -631,9 +575,9 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
-  \*********************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
+  \********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -653,9 +597,9 @@ function _slicedToArray(arr, i) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -683,9 +627,9 @@ function _taggedTemplateLiteral(strings, raw) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -705,9 +649,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -735,9 +679,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -752,9 +696,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -775,9 +719,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -797,9 +741,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -828,9 +772,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@glidejs/glide/dist/css/glide.core.min.css":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@glidejs/glide/dist/css/glide.core.min.css ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -839,9 +783,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/css/flaticon.css":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/css/flaticon.css ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/css/flaticon.css ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -850,9 +794,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/css/style.js":
-/*!************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/css/style.js ***!
-  \************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/css/style.js ***!
+  \***********************************************************************************/
 /*! exports provided: ResetCSS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -883,9 +827,9 @@ var ResetCSS = Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["createGlob
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/blog/blog-img1.png":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/blog/blog-img1.png ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/blog/blog-img1.png ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -894,9 +838,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAH0CAMAAACZ
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/blog/blog-img2.png":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/blog/blog-img2.png ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/blog/blog-img2.png ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -905,9 +849,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAH0CAMAAACZ
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/blog/blog-img3.png":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/blog/blog-img3.png ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/blog/blog-img3.png ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -916,9 +860,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAH0CAMAAACZ
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/client/denny.png":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/client/denny.png ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/client/denny.png ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -927,9 +871,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa8AAAIjCAMAAACD
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/client/menny.png":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/client/menny.png ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/client/menny.png ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -938,9 +882,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfIAAAIUCAMAAADW
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/footer-bg.png":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/footer-bg.png ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/footer-bg.png ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -949,9 +893,9 @@ module.exports = "/_next/static/images/footer-bg-61e61976e8a4ea1e4ff698142517ef3
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/google-icon.jpg":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/google-icon.jpg ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/google-icon.jpg ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -960,9 +904,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgA
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/group/group-image1.jpg":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/group/group-image1.jpg ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/group/group-image1.jpg ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -971,9 +915,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/group/group-image2.jpg":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/group/group-image2.jpg ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/group/group-image2.jpg ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -982,9 +926,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/group/group-image3.jpg":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/group/group-image3.jpg ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/group/group-image3.jpg ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -993,9 +937,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/login-bg.jpg":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/login-bg.jpg ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/login-bg.jpg ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1004,9 +948,9 @@ module.exports = "/_next/static/images/login-bg-e83ee3496f127d370a043d08d1bcc19c
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/logo.png":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/logo.png ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/logo.png ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1015,9 +959,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAABOCAYAAACD
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/particles/particle-1.png":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/particles/particle-1.png ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/particles/particle-1.png ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1026,9 +970,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABv
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/particles/particle-2.png":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/particles/particle-2.png ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/particles/particle-2.png ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1037,9 +981,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAASCAYAAAC0
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/particles/particle-3.png":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/particles/particle-3.png ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/particles/particle-3.png ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1048,9 +992,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADg
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/particles/particle-4.png":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/particles/particle-4.png ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/particles/particle-4.png ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1059,9 +1003,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/particles/particle-5.png":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/particles/particle-5.png ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/particles/particle-5.png ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1070,9 +1014,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABW
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/preview-image.jpg":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/preview-image.jpg ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/preview-image.jpg ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1081,9 +1025,9 @@ module.exports = "/_next/static/images/preview-image-3cc48e2472787156a0488dbd7b0
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/surface-studio.png":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/surface-studio.png ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/surface-studio.png ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1092,9 +1036,9 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAvAAAAOACAMAAABr
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/team/member-1.jpg":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/team/member-1.jpg ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/team/member-1.jpg ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1103,9 +1047,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/team/member-2.jpg":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/team/member-2.jpg ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/team/member-2.jpg ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1114,9 +1058,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/team/member-3.jpg":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/team/member-3.jpg ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/team/member-3.jpg ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1125,9 +1069,9 @@ module.exports = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgI
 /***/ }),
 
 /***/ "../../node_modules/common/src/assets/image/agency/zaiospace.png":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/assets/image/agency/zaiospace.png ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/assets/image/agency/zaiospace.png ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1136,9 +1080,9 @@ module.exports = "/_next/static/images/zaiospace-1491b2fff13f067b66ad7c3baa0759d
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/Accordion/accordion.style.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/Accordion/accordion.style.js ***!
-  \********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/Accordion/accordion.style.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: AccordionWrapper, AccordionItemWrapper, OpenIcon, CloseIcon, AccordionTitleWrapper, AccordionBodyWrapper, IconWrapper */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1252,9 +1196,9 @@ var IconWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/Accordion/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/Accordion/index.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/Accordion/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: Accordion, AccordionItem, AccordionTitle, AccordionBody, IconWrapper, OpenIcon, CloseIcon */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1277,7 +1221,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "CloseIcon", function() { return _accordion_style__WEBPACK_IMPORTED_MODULE_3__["CloseIcon"]; });
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/Accordion/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/Accordion/index.js";
 
 
 
@@ -1399,9 +1343,9 @@ AccordionBody.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/FeatureBlock/featureBlock.style.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock/featureBlock.style.js ***!
-  \**************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/FeatureBlock/featureBlock.style.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: IconWrapper, ContentWrapper, ButtonWrapper, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1473,9 +1417,9 @@ var ButtonWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/FeatureBlock/index.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock/index.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/FeatureBlock/index.js ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1490,7 +1434,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _featureBlock_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./featureBlock.style */ "../../node_modules/common/src/components/FeatureBlock/featureBlock.style.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/FeatureBlock/index.js";
 
 
 
@@ -1602,214 +1546,10 @@ FeatureBlock.defaultProps = {
 
 /***/ }),
 
-/***/ "../../node_modules/common/src/components/FeatureBlock2/featureBlock.style.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock2/featureBlock.style.js ***!
-  \***************************************************************************************************************/
-/*! exports provided: IconWrapper, ContentWrapper, ButtonWrapper, default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "IconWrapper", function() { return IconWrapper; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ContentWrapper", function() { return ContentWrapper; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ButtonWrapper", function() { return ButtonWrapper; });
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/taggedTemplateLiteral.js");
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! styled-components */ "styled-components");
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var styled_system__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! styled-system */ "styled-system");
-/* harmony import */ var styled_system__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(styled_system__WEBPACK_IMPORTED_MODULE_2__);
-
-
-function _templateObject4() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n"]);
-
-  _templateObject4 = function _templateObject4() {
-    return data;
-  };
-
-  return data;
-}
-
-function _templateObject3() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  ", "\n  ", "\n  ", "\n"]);
-
-  _templateObject3 = function _templateObject3() {
-    return data;
-  };
-
-  return data;
-}
-
-function _templateObject2() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n"]);
-
-  _templateObject2 = function _templateObject2() {
-    return data;
-  };
-
-  return data;
-}
-
-function _templateObject() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  &.icon_left {\n    display: flex;\n    .icon__wrapper{\n      flex-shrink: 0;\n    }\n  }\n  &.icon_right {\n    display: flex;\n    flex-direction: row-reverse;\n    .content__wrapper {\n      text-align: right;\n    }\n    .icon__wrapper{\n      flex-shrink: 0;\n    }\n  }\n\n  /* styled system prop support */\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n  ", "\n"]);
-
-  _templateObject = function _templateObject() {
-    return data;
-  };
-
-  return data;
-}
-
-
- // FeatureBlock wrapper style
-
-var FeatureBlockWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject(), styled_system__WEBPACK_IMPORTED_MODULE_2__["display"], styled_system__WEBPACK_IMPORTED_MODULE_2__["width"], styled_system__WEBPACK_IMPORTED_MODULE_2__["height"], styled_system__WEBPACK_IMPORTED_MODULE_2__["flexWrap"], styled_system__WEBPACK_IMPORTED_MODULE_2__["flexDirection"], styled_system__WEBPACK_IMPORTED_MODULE_2__["alignItems"], styled_system__WEBPACK_IMPORTED_MODULE_2__["justifyContent"], styled_system__WEBPACK_IMPORTED_MODULE_2__["position"], styled_system__WEBPACK_IMPORTED_MODULE_2__["color"], styled_system__WEBPACK_IMPORTED_MODULE_2__["space"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borders"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borderColor"], styled_system__WEBPACK_IMPORTED_MODULE_2__["boxShadow"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borderRadius"], styled_system__WEBPACK_IMPORTED_MODULE_2__["overflow"]); // Icon wrapper style
-
-var IconWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject2(), styled_system__WEBPACK_IMPORTED_MODULE_2__["display"], styled_system__WEBPACK_IMPORTED_MODULE_2__["width"], styled_system__WEBPACK_IMPORTED_MODULE_2__["height"], styled_system__WEBPACK_IMPORTED_MODULE_2__["alignItems"], styled_system__WEBPACK_IMPORTED_MODULE_2__["justifyContent"], styled_system__WEBPACK_IMPORTED_MODULE_2__["position"], styled_system__WEBPACK_IMPORTED_MODULE_2__["color"], styled_system__WEBPACK_IMPORTED_MODULE_2__["space"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borders"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borderColor"], styled_system__WEBPACK_IMPORTED_MODULE_2__["boxShadow"], styled_system__WEBPACK_IMPORTED_MODULE_2__["borderRadius"], styled_system__WEBPACK_IMPORTED_MODULE_2__["overflow"], styled_system__WEBPACK_IMPORTED_MODULE_2__["fontSize"]); // Content wrapper style
-
-var ContentWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject3(), styled_system__WEBPACK_IMPORTED_MODULE_2__["width"], styled_system__WEBPACK_IMPORTED_MODULE_2__["space"], styled_system__WEBPACK_IMPORTED_MODULE_2__["textAlign"]); // Button wrapper style
-
-var ButtonWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_templateObject4(), styled_system__WEBPACK_IMPORTED_MODULE_2__["display"], styled_system__WEBPACK_IMPORTED_MODULE_2__["space"], styled_system__WEBPACK_IMPORTED_MODULE_2__["alignItems"], styled_system__WEBPACK_IMPORTED_MODULE_2__["flexDirection"], styled_system__WEBPACK_IMPORTED_MODULE_2__["justifyContent"]);
-
-/* harmony default export */ __webpack_exports__["default"] = (FeatureBlockWrapper);
-
-/***/ }),
-
-/***/ "../../node_modules/common/src/components/FeatureBlock2/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock2/index.js ***!
-  \**************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/extends */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_objectWithoutProperties__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/objectWithoutProperties */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! prop-types */ "prop-types");
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _featureBlock_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./featureBlock.style */ "../../node_modules/common/src/components/FeatureBlock2/featureBlock.style.js");
-
-
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/FeatureBlock2/index.js";
-
-
-
-
-var FeatureBlock = function FeatureBlock(_ref) {
-  var className = _ref.className,
-      icon = _ref.icon,
-      title2 = _ref.title2,
-      button = _ref.button,
-      description2 = _ref.description2,
-      iconPosition = _ref.iconPosition,
-      additionalContent = _ref.additionalContent,
-      wrapperStyle = _ref.wrapperStyle,
-      iconStyle = _ref.iconStyle,
-      contentStyle = _ref.contentStyle,
-      btnWrapperStyle = _ref.btnWrapperStyle,
-      props = Object(_babel_runtime_corejs2_helpers_esm_objectWithoutProperties__WEBPACK_IMPORTED_MODULE_1__["default"])(_ref, ["className", "icon", "title2", "button", "description2", "iconPosition", "additionalContent", "wrapperStyle", "iconStyle", "contentStyle", "btnWrapperStyle"]);
-
-  // Add all classs to an array
-  var addAllClasses = ['feature__block']; // Add icon position class
-
-  if (iconPosition) {
-    addAllClasses.push("icon_".concat(iconPosition));
-  } // className prop checking
-
-
-  if (className) {
-    addAllClasses.push(className);
-  } // check icon value and add
-
-
-  var Icon = icon && react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_featureBlock_style__WEBPACK_IMPORTED_MODULE_4__["IconWrapper"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-    className: "icon__wrapper"
-  }, iconStyle, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 38
-    },
-    __self: this
-  }), icon);
-  return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_featureBlock_style__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-    className: addAllClasses.join(' ')
-  }, wrapperStyle, props, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 44
-    },
-    __self: this
-  }), Icon, title2 || description2 || button ? react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_2__["Fragment"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 52
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_featureBlock_style__WEBPACK_IMPORTED_MODULE_4__["ContentWrapper"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-    className: "content__wrapper"
-  }, contentStyle, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 53
-    },
-    __self: this
-  }), title2, description2, button && react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_featureBlock_style__WEBPACK_IMPORTED_MODULE_4__["ButtonWrapper"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-    className: "button__wrapper"
-  }, btnWrapperStyle, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }), button)), additionalContent) : '');
-};
-
-FeatureBlock.propTypes = {
-  /** ClassName of the FeatureBlock */
-  className: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string,
-
-  /** title prop contain a react component. You can use our Heading component from reusecore */
-  title2: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.element,
-
-  /** description prop contain a react component. You can use our Text component from reusecore */
-  description2: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.element,
-
-  /** button prop contain a react component. You can use our Button component from reusecore */
-  button: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.element,
-
-  /** Set icon position of the FeatureBlock */
-  iconPosition: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOf(['top', 'left', 'right']),
-
-  /** wrapperStyle prop contain these style system props:  display, flexWrap, width, height, alignItems,
-   * justifyContent, position, overflow, space, color, borders, borderColor, boxShadow and borderRadius. */
-  wrapperStyle: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.object,
-
-  /** iconStyle prop contain these style system props: display, width, height, alignItems, justifyContent,
-   * position, space, fontSize, color, borders, overflow, borderColor, boxShadow and borderRadius. */
-  iconStyle: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.object,
-
-  /** contentStyle prop contain these style system props: width, textAlign and space. */
-  contentStyle: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.object,
-
-  /** btnWrapperStyle prop contain these style system props: display, space, alignItems,
-   * flexDirection and justifyContent. */
-  btnWrapperStyle: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.object
-};
-FeatureBlock.defaultProps = {
-  iconPosition: 'top'
-};
-/* harmony default export */ __webpack_exports__["default"] = (FeatureBlock);
-
-/***/ }),
-
 /***/ "../../node_modules/common/src/components/GlideCarousel/glide.style.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/GlideCarousel/glide.style.js ***!
-  \********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/GlideCarousel/glide.style.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: GlideSlideWrapper, ButtonControlWrapper, ButtonWrapper, BulletControlWrapper, BulletButton, DefaultBtn, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1920,9 +1660,9 @@ var DefaultBtn = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.button
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/GlideCarousel/glideSlide.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/GlideCarousel/glideSlide.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/GlideCarousel/glideSlide.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1933,7 +1673,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _glide_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glide.style */ "../../node_modules/common/src/components/GlideCarousel/glide.style.js");
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/GlideCarousel/glideSlide.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/GlideCarousel/glideSlide.js";
 
 
  // Glide Slide wrapper component
@@ -1959,9 +1699,9 @@ GlideSlide.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/GlideCarousel/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/GlideCarousel/index.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/GlideCarousel/index.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1980,7 +1720,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _glide_style__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./glide.style */ "../../node_modules/common/src/components/GlideCarousel/glide.style.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/GlideCarousel/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/GlideCarousel/index.js";
 
 
 
@@ -2175,9 +1915,9 @@ GlideCarousel.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js ***!
-  \************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2211,9 +1951,9 @@ HamburgMenuWrapper.displayName = 'HamburgMenuWrapper';
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/HamburgMenu/index.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/HamburgMenu/index.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/HamburgMenu/index.js ***!
+  \***********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2228,7 +1968,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _hamburgMenu_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./hamburgMenu.style */ "../../node_modules/common/src/components/HamburgMenu/hamburgMenu.style.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/HamburgMenu/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/HamburgMenu/index.js";
 
 
 
@@ -2293,9 +2033,9 @@ HamburgMenu.propTypes = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/ScrollSpyMenu/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/ScrollSpyMenu/index.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/ScrollSpyMenu/index.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2314,7 +2054,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_DrawerContext__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../contexts/DrawerContext */ "../../node_modules/common/src/contexts/DrawerContext.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/ScrollSpyMenu/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/ScrollSpyMenu/index.js";
 
 
 
@@ -2430,9 +2170,9 @@ ScrollSpyMenu.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/UI/Container/index.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/UI/Container/index.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/UI/Container/index.js ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2441,7 +2181,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _style__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./style */ "../../node_modules/common/src/components/UI/Container/style.js");
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/components/UI/Container/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/components/UI/Container/index.js";
 
 
 
@@ -2478,9 +2218,9 @@ var Container = function Container(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/common/src/components/UI/Container/style.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/components/UI/Container/style.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/components/UI/Container/style.js ***!
+  \************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2556,9 +2296,9 @@ var ContainerWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/AboutUsSection/aboutUsSection.style.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/AboutUsSection/aboutUsSection.style.js ***!
-  \*************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/AboutUsSection/aboutUsSection.style.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2589,9 +2329,9 @@ var AboutUsSectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___defau
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/AboutUsSection/index.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/AboutUsSection/index.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/AboutUsSection/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2620,7 +2360,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_group_group_image3_jpg__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../../assets/image/agency/group/group-image3.jpg */ "../../node_modules/common/src/assets/image/agency/group/group-image3.jpg");
 /* harmony import */ var _assets_image_agency_group_group_image3_jpg__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_group_group_image3_jpg__WEBPACK_IMPORTED_MODULE_15__);
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/AboutUsSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/AboutUsSection/index.js";
 
 
 
@@ -2879,9 +2619,9 @@ AboutUsSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/BannerSection/bannerSection.style.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BannerSection/bannerSection.style.js ***!
-  \***********************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BannerSection/bannerSection.style.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: DiscountLabel, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2928,9 +2668,9 @@ var DiscountLabel = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/BannerSection/index.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BannerSection/index.js ***!
-  \*********************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BannerSection/index.js ***!
+  \********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2944,17 +2684,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! prop-types */ "prop-types");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var reusecore_src_elements_Box__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! reusecore/src/elements/Box */ "../../node_modules/reusecore/src/elements/Box/index.js");
-/* harmony import */ var reusecore_src_elements_Box2__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reusecore/src/elements/Box2 */ "../../node_modules/reusecore/src/elements/Box2/index.js");
-/* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
-/* harmony import */ var reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! reusecore/src/elements/Heading */ "../../node_modules/reusecore/src/elements/Heading/index.js");
-/* harmony import */ var reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! reusecore/src/elements/Button */ "../../node_modules/reusecore/src/elements/Button/index.js");
-/* harmony import */ var _components_FeatureBlock__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../components/FeatureBlock */ "../../node_modules/common/src/components/FeatureBlock/index.js");
-/* harmony import */ var _components_FeatureBlock2__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../components/FeatureBlock2 */ "../../node_modules/common/src/components/FeatureBlock2/index.js");
-/* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
-/* harmony import */ var _Agency_Particle__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../Agency/Particle */ "../../node_modules/common/src/containers/Agency/Particle/index.js");
-/* harmony import */ var _bannerSection_style__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./bannerSection.style */ "../../node_modules/common/src/containers/Agency/BannerSection/bannerSection.style.js");
+/* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
+/* harmony import */ var reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! reusecore/src/elements/Heading */ "../../node_modules/reusecore/src/elements/Heading/index.js");
+/* harmony import */ var reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! reusecore/src/elements/Button */ "../../node_modules/reusecore/src/elements/Button/index.js");
+/* harmony import */ var _components_FeatureBlock__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../components/FeatureBlock */ "../../node_modules/common/src/components/FeatureBlock/index.js");
+/* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
+/* harmony import */ var _Agency_Particle__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../Agency/Particle */ "../../node_modules/common/src/containers/Agency/Particle/index.js");
+/* harmony import */ var _bannerSection_style__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./bannerSection.style */ "../../node_modules/common/src/containers/Agency/BannerSection/bannerSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BannerSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BannerSection/index.js";
 
 
 
@@ -2966,8 +2704,8 @@ var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/con
 
 
 
-
-
+var devOptions = ["Build Your Portfolio", "Get Experience", "Land Dream Job"];
+var clientOptions = ["Rent A Dev Team", "Build An MVP/Prototype", "Hire Junior Developers"];
 
 var BannerSection = function BannerSection(_ref) {
   var row = _ref.row,
@@ -2980,32 +2718,18 @@ var BannerSection = function BannerSection(_ref) {
       outlineBtnStyle = _ref.outlineBtnStyle;
 
   var ButtonGroup = function ButtonGroup() {
-    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_1__["Fragment"], {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 28
+    return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+      style: {
+        textAlign: "center"
       },
-      __self: this
-    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_8__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      title: "LEARN MORE"
-    }, btnStyle, {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 29
       },
       __self: this
-    })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_8__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      title: "WATCH WORKS",
-      variant: "textButton",
-      icon: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("i", {
-        className: "flaticon-next",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 33
-        },
-        __self: this
-      })
-    }, outlineBtnStyle, {
+    }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Button__WEBPACK_IMPORTED_MODULE_7__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      title: "LEARN MORE"
+    }, btnStyle, {
       __source: {
         fileName: _jsxFileName,
         lineNumber: 30
@@ -3014,22 +2738,22 @@ var BannerSection = function BannerSection(_ref) {
     })));
   };
 
-  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_bannerSection_style__WEBPACK_IMPORTED_MODULE_13__["default"], {
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_bannerSection_style__WEBPACK_IMPORTED_MODULE_11__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 34
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Agency_Particle__WEBPACK_IMPORTED_MODULE_12__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_Agency_Particle__WEBPACK_IMPORTED_MODULE_10__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 35
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_UI_Container__WEBPACK_IMPORTED_MODULE_11__["default"], {
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_UI_Container__WEBPACK_IMPORTED_MODULE_9__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 36
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Box__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
@@ -3037,7 +2761,7 @@ var BannerSection = function BannerSection(_ref) {
   }, row, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 37
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Box__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
@@ -3045,80 +2769,126 @@ var BannerSection = function BannerSection(_ref) {
   }, col, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 38
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_FeatureBlock__WEBPACK_IMPORTED_MODULE_9__["default"], {
-    title: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_7__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      content: "Looking for tech services?"
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_FeatureBlock__WEBPACK_IMPORTED_MODULE_8__["default"], {
+    title: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_6__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      style: {
+        textAlign: "center"
+      },
+      content: "Developer"
     }, title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 47
+        lineNumber: 41
       },
       __self: this
     })),
-    description: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_6__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      content: "Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly ."
+    description: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      content: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
+        style: {
+          textAlign: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 50
+        },
+        __self: this
+      }, devOptions.map(function (item) {
+        return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+          style: {
+            fontSize: "1.2rem"
+          },
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 50
+          },
+          __self: this
+        }, item);
+      }))
     }, description, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 53
+        lineNumber: 49
       },
       __self: this
     })),
     button: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(ButtonGroup, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 58
+        lineNumber: 54
       },
       __self: this
     }),
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 39
     },
     __self: this
-  })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Box2__WEBPACK_IMPORTED_MODULE_5__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+  })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Box__WEBPACK_IMPORTED_MODULE_4__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
     className: "col"
   }, col, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61
+      lineNumber: 57
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_FeatureBlock2__WEBPACK_IMPORTED_MODULE_10__["default"], {
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_FeatureBlock__WEBPACK_IMPORTED_MODULE_8__["default"], {
     style: {
       color: "white"
     },
-    title2: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_7__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      content: "Looking for tech services?"
+    title: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Heading__WEBPACK_IMPORTED_MODULE_6__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      style: {
+        textAlign: "center"
+      },
+      content: "Client"
     }, title, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 65
+        lineNumber: 60
       },
       __self: this
     })),
-    description2: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_6__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
-      content: "Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly ."
+    description: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_5__["default"], Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+      content: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
+        style: {
+          textAlign: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 68
+        },
+        __self: this
+      }, clientOptions.map(function (item) {
+        return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+          style: {
+            fontSize: "1.2rem"
+          },
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 68
+          },
+          __self: this
+        }, item);
+      }))
     }, description, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 71
+        lineNumber: 67
       },
       __self: this
     })),
     button: react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(ButtonGroup, {
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 76
+        lineNumber: 72
       },
       __self: this
     }),
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 63
+      lineNumber: 58
     },
     __self: this
   })))));
@@ -3205,9 +2975,9 @@ BannerSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/BlogSection/blogSection.style.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BlogSection/blogSection.style.js ***!
-  \*******************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BlogSection/blogSection.style.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3235,9 +3005,9 @@ var BlogSectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/BlogSection/index.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BlogSection/index.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BlogSection/index.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3258,7 +3028,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
 /* harmony import */ var _blogSection_style__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./blogSection.style */ "../../node_modules/common/src/containers/Agency/BlogSection/blogSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/BlogSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/BlogSection/index.js";
 
 
 
@@ -3428,9 +3198,9 @@ BlogSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/CopyrightsSection/copyrightSection.style.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/CopyrightsSection/copyrightSection.style.js ***!
-  \******************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/CopyrightsSection/copyrightSection.style.js ***!
+  \*****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3458,9 +3228,9 @@ var CopyrightWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/CopyrightsSection/index.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/CopyrightsSection/index.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/CopyrightsSection/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3473,7 +3243,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var reusecore_src_elements_Text__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! reusecore/src/elements/Text */ "../../node_modules/reusecore/src/elements/Text/index.js");
 /* harmony import */ var _copyrightSection_style__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./copyrightSection.style */ "../../node_modules/common/src/containers/Agency/CopyrightsSection/copyrightSection.style.js");
 /* harmony import */ var _data_Agency___WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../data/Agency/ */ "../../node_modules/common/src/data/Agency/index.js");
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/CopyrightsSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/CopyrightsSection/index.js";
 
 
 
@@ -3538,9 +3308,9 @@ var CopyrightSection = function CopyrightSection() {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/FaqSection/faqSection.style.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FaqSection/faqSection.style.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FaqSection/faqSection.style.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3571,9 +3341,9 @@ var FaqSectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/FaqSection/index.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FaqSection/index.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FaqSection/index.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3598,7 +3368,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _faqSection_style__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./faqSection.style */ "../../node_modules/common/src/containers/Agency/FaqSection/faqSection.style.js");
 /* harmony import */ var _data_Agency__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../../../data/Agency */ "../../node_modules/common/src/data/Agency/index.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FaqSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FaqSection/index.js";
 
 
 
@@ -3814,9 +3584,9 @@ FaqSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/FeatureSection/featureSection.style.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FeatureSection/featureSection.style.js ***!
-  \*************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FeatureSection/featureSection.style.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3847,9 +3617,9 @@ var FeatureSectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___defau
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/FeatureSection/index.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FeatureSection/index.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FeatureSection/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3868,7 +3638,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
 /* harmony import */ var _featureSection_style__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./featureSection.style */ "../../node_modules/common/src/containers/Agency/FeatureSection/featureSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/FeatureSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/FeatureSection/index.js";
 
 
 
@@ -4073,9 +3843,9 @@ FeatureSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/Footer/footer.style.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Footer/footer.style.js ***!
-  \*********************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Footer/footer.style.js ***!
+  \********************************************************************************************************/
 /*! exports provided: List, ListItem, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4134,9 +3904,9 @@ var ListItem = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.li(_temp
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/Footer/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Footer/index.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Footer/index.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4159,7 +3929,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_logo_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_logo_png__WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var _data_Agency__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../data/Agency */ "../../node_modules/common/src/data/Agency/index.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Footer/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Footer/index.js";
 
 
 
@@ -4353,9 +4123,9 @@ Footer.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/LoginModal/index.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/LoginModal/index.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/LoginModal/index.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4389,7 +4159,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ../../../assets/image/agency/google-icon.jpg */ "../../node_modules/common/src/assets/image/agency/google-icon.jpg");
 /* harmony import */ var _assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_google_icon_jpg__WEBPACK_IMPORTED_MODULE_17__);
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/LoginModal/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/LoginModal/index.js";
 
 
 
@@ -4788,9 +4558,9 @@ LoginModal.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/LoginModal/loginModal.style.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/LoginModal/loginModal.style.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/LoginModal/loginModal.style.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4821,9 +4591,9 @@ var LoginModalWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/Navbar/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Navbar/index.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Navbar/index.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4851,7 +4621,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_DrawerContext__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ../../../contexts/DrawerContext */ "../../node_modules/common/src/contexts/DrawerContext.js");
 /* harmony import */ var _data_Agency___WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ../../../data/Agency/ */ "../../node_modules/common/src/data/Agency/index.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Navbar/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Navbar/index.js";
 
 
 
@@ -5091,9 +4861,9 @@ Navbar.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/Navbar/navbar.style.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Navbar/navbar.style.js ***!
-  \*********************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Navbar/navbar.style.js ***!
+  \********************************************************************************************************/
 /*! exports provided: Container */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5122,9 +4892,9 @@ var Container = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_te
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/NewsletterSection/index.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/NewsletterSection/index.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/NewsletterSection/index.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5142,7 +4912,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
 /* harmony import */ var _newsletterSection_style__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./newsletterSection.style */ "../../node_modules/common/src/containers/Agency/NewsletterSection/newsletterSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/NewsletterSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/NewsletterSection/index.js";
 
 
 
@@ -5250,9 +5020,9 @@ NewsletterSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/NewsletterSection/newsletterSection.style.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/NewsletterSection/newsletterSection.style.js ***!
-  \*******************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/NewsletterSection/newsletterSection.style.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: NewsletterForm, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5293,9 +5063,9 @@ var NewsletterForm = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.di
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/Particle/index.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Particle/index.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Particle/index.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5315,7 +5085,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_particles_particle_4_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_particles_particle_4_png__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _assets_image_agency_particles_particle_5_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../assets/image/agency/particles/particle-5.png */ "../../node_modules/common/src/assets/image/agency/particles/particle-5.png");
 /* harmony import */ var _assets_image_agency_particles_particle_5_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_particles_particle_5_png__WEBPACK_IMPORTED_MODULE_6__);
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/Particle/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/Particle/index.js";
 
 
 
@@ -5416,9 +5186,9 @@ var ParticlesComponent = function ParticlesComponent() {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/QualitySection/index.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/QualitySection/index.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/QualitySection/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5443,7 +5213,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_surface_studio_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ../../../assets/image/agency/surface-studio.png */ "../../node_modules/common/src/assets/image/agency/surface-studio.png");
 /* harmony import */ var _assets_image_agency_surface_studio_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_surface_studio_png__WEBPACK_IMPORTED_MODULE_13__);
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/QualitySection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/QualitySection/index.js";
 
 
 
@@ -5725,9 +5495,9 @@ QualitySection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/QualitySection/qualitySection.style.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/QualitySection/qualitySection.style.js ***!
-  \*************************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/QualitySection/qualitySection.style.js ***!
+  \************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5755,9 +5525,9 @@ var QualitySectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___defau
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/SearchPanel/index.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/SearchPanel/index.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/SearchPanel/index.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5777,7 +5547,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_icons_kit_ionicons_iosSearchStrong__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react_icons_kit_ionicons_iosSearchStrong__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _searchPanel_style__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./searchPanel.style */ "../../node_modules/common/src/containers/Agency/SearchPanel/searchPanel.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/SearchPanel/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/SearchPanel/index.js";
 
 
 
@@ -5863,9 +5633,9 @@ SearchPanel.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/SearchPanel/searchPanel.style.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/SearchPanel/searchPanel.style.js ***!
-  \*******************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/SearchPanel/searchPanel.style.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5893,9 +5663,9 @@ var SearchPanelWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/TeamSection/index.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TeamSection/index.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TeamSection/index.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5915,7 +5685,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
 /* harmony import */ var _teamSection_style__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./teamSection.style */ "../../node_modules/common/src/containers/Agency/TeamSection/teamSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TeamSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TeamSection/index.js";
 
 
 
@@ -6129,9 +5899,9 @@ TeamSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/TeamSection/teamSection.style.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TeamSection/teamSection.style.js ***!
-  \*******************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TeamSection/teamSection.style.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: SocialLinks, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6172,9 +5942,9 @@ var SocialLinks = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(_
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/TestimonialSection/index.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TestimonialSection/index.js ***!
-  \**************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TestimonialSection/index.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6196,7 +5966,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_GlideCarousel_glideSlide__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../components/GlideCarousel/glideSlide */ "../../node_modules/common/src/components/GlideCarousel/glideSlide.js");
 /* harmony import */ var _testimonialSection_style__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./testimonialSection.style */ "../../node_modules/common/src/containers/Agency/TestimonialSection/testimonialSection.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TestimonialSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TestimonialSection/index.js";
 
 
 
@@ -6464,9 +6234,9 @@ TestimonialSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/TestimonialSection/testimonialSection.style.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/TestimonialSection/testimonialSection.style.js ***!
-  \*********************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/TestimonialSection/testimonialSection.style.js ***!
+  \********************************************************************************************************************************/
 /*! exports provided: TextWrapper, ImageWrapper, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6522,9 +6292,9 @@ var ImageWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div(
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/VideoSection/index.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/VideoSection/index.js ***!
-  \********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/VideoSection/index.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6547,7 +6317,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _assets_image_agency_preview_image_jpg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../assets/image/agency/preview-image.jpg */ "../../node_modules/common/src/assets/image/agency/preview-image.jpg");
 /* harmony import */ var _assets_image_agency_preview_image_jpg__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_assets_image_agency_preview_image_jpg__WEBPACK_IMPORTED_MODULE_11__);
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/VideoSection/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/VideoSection/index.js";
 
 
 
@@ -6750,9 +6520,9 @@ VideoSection.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/VideoSection/videoSection.style.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/VideoSection/videoSection.style.js ***!
-  \*********************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/VideoSection/videoSection.style.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6783,9 +6553,9 @@ var VideoSectionWrapper = styled_components__WEBPACK_IMPORTED_MODULE_1___default
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/WorkHistory/index.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/WorkHistory/index.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/WorkHistory/index.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6809,7 +6579,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_UI_Container__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../components/UI/Container */ "../../node_modules/common/src/components/UI/Container/index.js");
 /* harmony import */ var _workHistory_style__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./workHistory.style */ "../../node_modules/common/src/containers/Agency/WorkHistory/workHistory.style.js");
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/WorkHistory/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/WorkHistory/index.js";
 
 
 
@@ -7086,9 +6856,9 @@ WorkHistory.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/WorkHistory/workHistory.style.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/WorkHistory/workHistory.style.js ***!
-  \*******************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/WorkHistory/workHistory.style.js ***!
+  \******************************************************************************************************************/
 /*! exports provided: CounterUpArea, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7132,9 +6902,9 @@ var CounterUpArea = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.div
 /***/ }),
 
 /***/ "../../node_modules/common/src/containers/Agency/agency.style.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/containers/Agency/agency.style.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/containers/Agency/agency.style.js ***!
+  \*************************************************************************************************/
 /*! exports provided: GlobalStyle, AgencyWrapper */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7184,9 +6954,9 @@ AgencyWrapper.displayName = 'AgencyWrapper';
 /***/ }),
 
 /***/ "../../node_modules/common/src/contexts/DrawerContext.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/contexts/DrawerContext.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/contexts/DrawerContext.js ***!
+  \*****************************************************************************************/
 /*! exports provided: DrawerContext, DrawerProvider */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7200,7 +6970,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/common/src/contexts/DrawerContext.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/common/src/contexts/DrawerContext.js";
 
 var initialState = {
   isOpen: false
@@ -7243,9 +7013,9 @@ var DrawerProvider = function DrawerProvider(_ref) {
 /***/ }),
 
 /***/ "../../node_modules/common/src/data/Agency/index.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/data/Agency/index.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/data/Agency/index.js ***!
+  \************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7575,9 +7345,9 @@ var data = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/theme/agency/colors.js":
-/*!***************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/theme/agency/colors.js ***!
-  \***************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/theme/agency/colors.js ***!
+  \**************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7609,9 +7379,9 @@ var colors = {
 /***/ }),
 
 /***/ "../../node_modules/common/src/theme/agency/index.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/common/src/theme/agency/index.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/common/src/theme/agency/index.js ***!
+  \*************************************************************************************/
 /*! exports provided: agencyTheme */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -7749,9 +7519,9 @@ var agencyTheme = {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/link.js":
-/*!******************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/dist/client/link.js ***!
-  \******************************************************************************/
+/*!*****************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next/dist/client/link.js ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7762,8 +7532,6 @@ var agencyTheme = {
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime-corejs2/helpers/interopRequireDefault */ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js");
 
 var _stringify = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/json/stringify */ "../../node_modules/@babel/runtime-corejs2/core-js/json/stringify.js"));
-
-var _typeof2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/typeof */ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js"));
 
 var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/classCallCheck */ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js"));
 
@@ -7801,7 +7569,7 @@ var react_1 = __importStar(__webpack_require__(/*! react */ "react"));
 
 var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "prop-types"));
 
-var router_1 = __importStar(__webpack_require__(/*! next/router */ "../../node_modules/next/router.js"));
+var router_1 = __importStar(__webpack_require__(/*! next/router */ "next/router"));
 
 var utils_1 = __webpack_require__(/*! next-server/dist/lib/utils */ "next-server/dist/lib/utils");
 
@@ -7811,7 +7579,7 @@ function isLocal(href) {
   return !url.host || url.protocol === origin.protocol && url.host === origin.host;
 }
 
-function memoizedFormatUrl(formatUrl) {
+function memoizedFormatUrl(formatFunc) {
   var lastHref = null;
   var lastAs = null;
   var lastResult = null;
@@ -7820,12 +7588,16 @@ function memoizedFormatUrl(formatUrl) {
       return lastResult;
     }
 
-    var result = formatUrl(href, as);
+    var result = formatFunc(href, as);
     lastHref = href;
     lastAs = as;
     lastResult = result;
     return result;
   };
+}
+
+function formatUrl(url) {
+  return url && typeof url === 'object' ? utils_1.formatWithValidation(url) : url;
 }
 
 var Link =
@@ -7842,8 +7614,8 @@ function (_react_1$Component) {
 
     _this.formatUrls = memoizedFormatUrl(function (href, asHref) {
       return {
-        href: href && (0, _typeof2.default)(href) === 'object' ? utils_1.formatWithValidation(href) : href,
-        as: asHref && (0, _typeof2.default)(asHref) === 'object' ? utils_1.formatWithValidation(asHref) : asHref
+        href: formatUrl(href),
+        as: formatUrl(asHref, true)
       };
     });
 
@@ -7958,8 +7730,10 @@ function (_react_1$Component) {
       // "<page>/index.html" directly.
 
 
-      if (props.href && typeof __NEXT_DATA__ !== 'undefined' && __NEXT_DATA__.nextExport) {
-        props.href = router_1.Router._rewriteUrlForNextExport(props.href);
+      if (true) {
+        if (props.href && typeof __NEXT_DATA__ !== 'undefined' && __NEXT_DATA__.nextExport) {
+          props.href = router_1.Router._rewriteUrlForNextExport(props.href);
+        }
       }
 
       return react_1.default.cloneElement(child, props);
@@ -7997,264 +7771,10 @@ exports.default = Link;
 
 /***/ }),
 
-/***/ "../../node_modules/next/dist/client/router.js":
-/*!********************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/dist/client/router.js ***!
-  \********************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime-corejs2/helpers/interopRequireDefault */ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js");
-
-var _assign = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/object/assign */ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js"));
-
-var _typeof2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/typeof */ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js"));
-
-var _construct2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/construct */ "../../node_modules/@babel/runtime-corejs2/helpers/construct.js"));
-
-var _defineProperty = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/object/define-property */ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js"));
-
-var __importDefault = void 0 && (void 0).__importDefault || function (mod) {
-  return mod && mod.__esModule ? mod : {
-    "default": mod
-  };
-};
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-/* global window */
-
-var router_1 = __importDefault(__webpack_require__(/*! next-server/dist/lib/router/router */ "next-server/dist/lib/router/router"));
-
-var SingletonRouter = {
-  router: null,
-  readyCallbacks: [],
-  ready: function ready(cb) {
-    if (this.router) return cb();
-
-    if (typeof window !== 'undefined') {
-      this.readyCallbacks.push(cb);
-    }
-  }
-}; // Create public properties and methods of the router in the SingletonRouter
-
-var urlPropertyFields = ['pathname', 'route', 'query', 'asPath'];
-var propertyFields = ['components'];
-var routerEvents = ['routeChangeStart', 'beforeHistoryChange', 'routeChangeComplete', 'routeChangeError', 'hashChangeStart', 'hashChangeComplete'];
-var coreMethodFields = ['push', 'replace', 'reload', 'back', 'prefetch', 'beforePopState']; // Events is a static property on the router, the router doesn't have to be initialized to use it
-
-Object.defineProperty(SingletonRouter, 'events', {
-  get: function get() {
-    return router_1.default.events;
-  }
-});
-propertyFields.concat(urlPropertyFields).forEach(function (field) {
-  // Here we need to use Object.defineProperty because, we need to return
-  // the property assigned to the actual router
-  // The value might get changed as we change routes and this is the
-  // proper way to access it
-  (0, _defineProperty.default)(SingletonRouter, field, {
-    get: function get() {
-      throwIfNoRouter();
-      return SingletonRouter.router[field];
-    }
-  });
-});
-coreMethodFields.forEach(function (field) {
-  SingletonRouter[field] = function () {
-    var _SingletonRouter$rout;
-
-    throwIfNoRouter();
-    return (_SingletonRouter$rout = SingletonRouter.router)[field].apply(_SingletonRouter$rout, arguments);
-  };
-});
-routerEvents.forEach(function (event) {
-  SingletonRouter.ready(function () {
-    router_1.default.events.on(event, function () {
-      var eventField = "on".concat(event.charAt(0).toUpperCase()).concat(event.substring(1));
-
-      if (SingletonRouter[eventField]) {
-        try {
-          SingletonRouter[eventField].apply(SingletonRouter, arguments);
-        } catch (err) {
-          console.error("Error when running the Router event: ".concat(eventField));
-          console.error("".concat(err.message, "\n").concat(err.stack));
-        }
-      }
-    });
-  });
-});
-
-function throwIfNoRouter() {
-  if (!SingletonRouter.router) {
-    var message = 'No router instance found.\n' + 'You should only use "next/router" inside the client side of your app.\n';
-    throw new Error(message);
-  }
-} // Export the SingletonRouter and this is the public API.
-
-
-exports.default = SingletonRouter; // Reexport the withRoute HOC
-
-var with_router_1 = __webpack_require__(/*! ./with-router */ "../../node_modules/next/dist/client/with-router.js");
-
-exports.withRouter = with_router_1.default; // INTERNAL APIS
-// -------------
-// (do not use following exports inside the app)
-// Create a router and assign it as the singleton instance.
-// This is used in client side when we are initilizing the app.
-// This should **not** use inside the server.
-
-exports.createRouter = function () {
-  for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-    args[_key] = arguments[_key];
-  }
-
-  SingletonRouter.router = (0, _construct2.default)(router_1.default, args);
-  SingletonRouter.readyCallbacks.forEach(function (cb) {
-    return cb();
-  });
-  SingletonRouter.readyCallbacks = [];
-  return SingletonRouter.router;
-}; // Export the actual Router class, which is usually used inside the server
-
-
-exports.Router = router_1.default; // This function is used to create the `withRouter` router instance
-
-function makePublicRouterInstance(router) {
-  var instance = {};
-
-  for (var _i = 0; _i < urlPropertyFields.length; _i++) {
-    var property = urlPropertyFields[_i];
-
-    if ((0, _typeof2.default)(router[property]) === 'object') {
-      instance[property] = (0, _assign.default)({}, router[property]); // makes sure query is not stateful
-
-      continue;
-    }
-
-    instance[property] = router[property];
-  } // Events is a static property on the router, the router doesn't have to be initialized to use it
-
-
-  instance.events = router_1.default.events;
-  propertyFields.forEach(function (field) {
-    // Here we need to use Object.defineProperty because, we need to return
-    // the property assigned to the actual router
-    // The value might get changed as we change routes and this is the
-    // proper way to access it
-    (0, _defineProperty.default)(instance, field, {
-      get: function get() {
-        return router[field];
-      }
-    });
-  });
-  coreMethodFields.forEach(function (field) {
-    instance[field] = function () {
-      return router[field].apply(router, arguments);
-    };
-  });
-  return instance;
-}
-
-exports.makePublicRouterInstance = makePublicRouterInstance;
-
-/***/ }),
-
-/***/ "../../node_modules/next/dist/client/with-router.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/dist/client/with-router.js ***!
-  \*************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime-corejs2/helpers/interopRequireDefault */ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js");
-
-var _assign = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/core-js/object/assign */ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js"));
-
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/classCallCheck */ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js"));
-
-var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/createClass */ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js"));
-
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/possibleConstructorReturn */ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js"));
-
-var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/getPrototypeOf */ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js"));
-
-var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime-corejs2/helpers/inherits */ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js"));
-
-var __importStar = void 0 && (void 0).__importStar || function (mod) {
-  if (mod && mod.__esModule) return mod;
-  var result = {};
-  if (mod != null) for (var k in mod) {
-    if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
-  }
-  result["default"] = mod;
-  return result;
-};
-
-var __importDefault = void 0 && (void 0).__importDefault || function (mod) {
-  return mod && mod.__esModule ? mod : {
-    "default": mod
-  };
-};
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-
-var react_1 = __importStar(__webpack_require__(/*! react */ "react"));
-
-var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "prop-types"));
-
-var hoist_non_react_statics_1 = __importDefault(__webpack_require__(/*! hoist-non-react-statics */ "../../node_modules/next/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js"));
-
-var utils_1 = __webpack_require__(/*! next-server/dist/lib/utils */ "next-server/dist/lib/utils");
-
-function withRouter(ComposedComponent) {
-  var displayName = utils_1.getDisplayName(ComposedComponent);
-
-  var WithRouteWrapper =
-  /*#__PURE__*/
-  function (_react_1$Component) {
-    (0, _inherits2.default)(WithRouteWrapper, _react_1$Component);
-
-    function WithRouteWrapper() {
-      (0, _classCallCheck2.default)(this, WithRouteWrapper);
-      return (0, _possibleConstructorReturn2.default)(this, (0, _getPrototypeOf2.default)(WithRouteWrapper).apply(this, arguments));
-    }
-
-    (0, _createClass2.default)(WithRouteWrapper, [{
-      key: "render",
-      value: function render() {
-        return react_1.default.createElement(ComposedComponent, (0, _assign.default)({
-          router: this.context.router
-        }, this.props));
-      }
-    }]);
-    return WithRouteWrapper;
-  }(react_1.Component);
-
-  WithRouteWrapper.contextTypes = {
-    router: prop_types_1.default.object
-  };
-  WithRouteWrapper.displayName = "withRouter(".concat(displayName, ")");
-  return hoist_non_react_statics_1.default(WithRouteWrapper, ComposedComponent);
-}
-
-exports.default = withRouter;
-
-/***/ }),
-
 /***/ "../../node_modules/next/link.js":
-/*!******************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/link.js ***!
-  \******************************************************************/
+/*!*****************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next/link.js ***!
+  \*****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8263,118 +7783,10 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "../../node_modul
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
-/*!***********************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
-  \***********************************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-/**
- * Copyright 2015, Yahoo! Inc.
- * Copyrights licensed under the New BSD License. See the accompanying LICENSE file for terms.
- */
-var ReactIs = __webpack_require__(/*! react-is */ "react-is");
-var REACT_STATICS = {
-    childContextTypes: true,
-    contextType: true,
-    contextTypes: true,
-    defaultProps: true,
-    displayName: true,
-    getDefaultProps: true,
-    getDerivedStateFromError: true,
-    getDerivedStateFromProps: true,
-    mixins: true,
-    propTypes: true,
-    type: true
-};
-
-var KNOWN_STATICS = {
-    name: true,
-    length: true,
-    prototype: true,
-    caller: true,
-    callee: true,
-    arguments: true,
-    arity: true
-};
-
-var FORWARD_REF_STATICS = {
-    '$$typeof': true,
-    render: true
-};
-
-var TYPE_STATICS = {};
-TYPE_STATICS[ReactIs.ForwardRef] = FORWARD_REF_STATICS;
-
-var defineProperty = Object.defineProperty;
-var getOwnPropertyNames = Object.getOwnPropertyNames;
-var getOwnPropertySymbols = Object.getOwnPropertySymbols;
-var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
-var getPrototypeOf = Object.getPrototypeOf;
-var objectPrototype = Object.prototype;
-
-function hoistNonReactStatics(targetComponent, sourceComponent, blacklist) {
-    if (typeof sourceComponent !== 'string') {
-        // don't hoist over string (html) components
-
-        if (objectPrototype) {
-            var inheritedComponent = getPrototypeOf(sourceComponent);
-            if (inheritedComponent && inheritedComponent !== objectPrototype) {
-                hoistNonReactStatics(targetComponent, inheritedComponent, blacklist);
-            }
-        }
-
-        var keys = getOwnPropertyNames(sourceComponent);
-
-        if (getOwnPropertySymbols) {
-            keys = keys.concat(getOwnPropertySymbols(sourceComponent));
-        }
-
-        var targetStatics = TYPE_STATICS[targetComponent['$$typeof']] || REACT_STATICS;
-        var sourceStatics = TYPE_STATICS[sourceComponent['$$typeof']] || REACT_STATICS;
-
-        for (var i = 0; i < keys.length; ++i) {
-            var key = keys[i];
-            if (!KNOWN_STATICS[key] && !(blacklist && blacklist[key]) && !(sourceStatics && sourceStatics[key]) && !(targetStatics && targetStatics[key])) {
-                var descriptor = getOwnPropertyDescriptor(sourceComponent, key);
-                try {
-                    // Avoid failures from read-only properties
-                    defineProperty(targetComponent, key, descriptor);
-                } catch (e) {}
-            }
-        }
-
-        return targetComponent;
-    }
-
-    return targetComponent;
-}
-
-module.exports = hoistNonReactStatics;
-
-
-/***/ }),
-
-/***/ "../../node_modules/next/router.js":
-/*!********************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/router.js ***!
-  \********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! ./dist/client/router */ "../../node_modules/next/dist/client/router.js")
-
-
-/***/ }),
-
 /***/ "../../node_modules/rc-drawer/assets/index.css":
-/*!********************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/rc-drawer/assets/index.css ***!
-  \********************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/rc-drawer/assets/index.css ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8383,9 +7795,9 @@ module.exports = __webpack_require__(/*! ./dist/client/router */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/rc-tabs/assets/index.css":
-/*!******************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/rc-tabs/assets/index.css ***!
-  \******************************************************************************/
+/*!*****************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/rc-tabs/assets/index.css ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8394,9 +7806,9 @@ module.exports = __webpack_require__(/*! ./dist/client/router */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/react-accessible-accordion/dist/fancy-example.css":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/react-accessible-accordion/dist/fancy-example.css ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/react-accessible-accordion/dist/fancy-example.css ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8405,9 +7817,9 @@ module.exports = __webpack_require__(/*! ./dist/client/router */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Animation/index.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Animation/index.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Animation/index.js ***!
+  \**********************************************************************************************/
 /*! exports provided: AnimSpinner */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8447,9 +7859,9 @@ var AnimSpinner = Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["css"])(
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Box/index.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Box/index.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Box/index.js ***!
+  \****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8468,82 +7880,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _base__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../base */ "../../node_modules/reusecore/src/elements/base.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Box/index.js";
-
-
-
-
-
-var BoxWrapper = styled_components__WEBPACK_IMPORTED_MODULE_4___default()('div')(_base__WEBPACK_IMPORTED_MODULE_6__["base"], Object(_base__WEBPACK_IMPORTED_MODULE_6__["themed"])('Box'), function (props) {
-  return props.flexBox && Object(styled_components__WEBPACK_IMPORTED_MODULE_4__["css"])({
-    display: 'flex'
-  }, styled_system__WEBPACK_IMPORTED_MODULE_5__["flexWrap"], styled_system__WEBPACK_IMPORTED_MODULE_5__["flexDirection"], styled_system__WEBPACK_IMPORTED_MODULE_5__["alignItems"], styled_system__WEBPACK_IMPORTED_MODULE_5__["justifyContent"], Object(_base__WEBPACK_IMPORTED_MODULE_6__["themed"])('FlexBox'));
-});
-
-var Box = function Box(_ref) {
-  var children = _ref.children,
-      props = Object(_babel_runtime_corejs2_helpers_esm_objectWithoutProperties__WEBPACK_IMPORTED_MODULE_1__["default"])(_ref, ["children"]);
-
-  return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(BoxWrapper, Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, props, {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 28
-    },
-    __self: this
-  }), children);
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Box);
-Box.propTypes = {
-  children: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.any.isRequired,
-
-  /** Using this props we can convert our Box Component to a Flex Container or Component */
-  flexBox: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.bool,
-  as: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOf(['div', 'article', 'section', 'address', 'header', 'footer', 'nav', 'main']),
-  width: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  height: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  fontSize: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  color: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  flex: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  order: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  alignSelf: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  display: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  border: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  borderTop: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  borderRight: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  borderBottom: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  borderLeft: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))]),
-  borderColor: prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.arrayOf(prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.oneOfType([prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.string, prop_types__WEBPACK_IMPORTED_MODULE_3___default.a.number]))])
-};
-Box.defaultProps = {
-  as: 'div'
-};
-
-/***/ }),
-
-/***/ "../../node_modules/reusecore/src/elements/Box2/index.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Box2/index.js ***!
-  \******************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/extends */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/extends.js");
-/* harmony import */ var _babel_runtime_corejs2_helpers_esm_objectWithoutProperties__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/objectWithoutProperties */ "../../node_modules/@babel/runtime-corejs2/helpers/esm/objectWithoutProperties.js");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! prop-types */ "prop-types");
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! styled-components */ "styled-components");
-/* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var styled_system__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! styled-system */ "styled-system");
-/* harmony import */ var styled_system__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(styled_system__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _base__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../base */ "../../node_modules/reusecore/src/elements/base.js");
-
-
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Box2/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Box/index.js";
 
 
 
@@ -8597,9 +7934,9 @@ Box.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Button/button.style.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Button/button.style.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Button/button.style.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8639,9 +7976,9 @@ ButtonStyle.displayName = 'ButtonStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Button/index.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Button/index.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Button/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8657,7 +7994,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Loader__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../Loader */ "../../node_modules/reusecore/src/elements/Loader/index.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Button/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Button/index.js";
 
 
 
@@ -8792,9 +8129,9 @@ Button.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Card/index.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Card/index.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Card/index.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8816,7 +8153,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Card/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Card/index.js";
 
 
 
@@ -8849,9 +8186,9 @@ Card.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Checkbox/checkbox.style.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Checkbox/checkbox.style.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Checkbox/checkbox.style.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8887,9 +8224,9 @@ CheckBoxStyle.displayName = 'CheckBoxStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Checkbox/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Checkbox/index.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Checkbox/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -8907,7 +8244,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Checkbox/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Checkbox/index.js";
 
 
 
@@ -9036,9 +8373,9 @@ CheckBox.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Drawer/index.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Drawer/index.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Drawer/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9056,7 +8393,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(rc_drawer_assets_index_css__WEBPACK_IMPORTED_MODULE_5__);
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Drawer/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Drawer/index.js";
 
 
 
@@ -9144,9 +8481,9 @@ Drawer.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Heading/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Heading/index.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Heading/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9167,7 +8504,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Heading/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Heading/index.js";
 
 
 
@@ -9210,9 +8547,9 @@ Heading.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Image/index.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Image/index.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Image/index.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9229,7 +8566,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _base__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../base */ "../../node_modules/reusecore/src/elements/base.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Image/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Image/index.js";
 
 
 
@@ -9269,9 +8606,9 @@ Image.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Input/index.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Input/index.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Input/index.js ***!
+  \******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9290,7 +8627,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Input/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Input/index.js";
 
 
 
@@ -9560,9 +8897,9 @@ Input.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Input/input.style.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Input/input.style.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Input/input.style.js ***!
+  \************************************************************************************************/
 /*! exports provided: EyeButton, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9606,9 +8943,9 @@ var EyeButton = styled_components__WEBPACK_IMPORTED_MODULE_1___default.a.button(
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Link/index.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Link/index.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Link/index.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9627,7 +8964,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Link/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Link/index.js";
 
 
 
@@ -9663,9 +9000,9 @@ Link.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Loader/index.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Loader/index.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Loader/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9680,7 +9017,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _loader_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./loader.style */ "../../node_modules/reusecore/src/elements/Loader/loader.style.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Loader/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Loader/index.js";
 
 
 
@@ -9728,9 +9065,9 @@ Loader.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Loader/loader.style.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Loader/loader.style.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Loader/loader.style.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9774,9 +9111,9 @@ LoaderStyle.displayName = 'LoaderStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Navbar/index.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Navbar/index.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Navbar/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9791,7 +9128,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbar_style__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./navbar.style */ "../../node_modules/reusecore/src/elements/Navbar/navbar.style.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Navbar/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Navbar/index.js";
 
 
 
@@ -9847,9 +9184,9 @@ Navbar.defaultProps = {};
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Navbar/navbar.style.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Navbar/navbar.style.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Navbar/navbar.style.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9881,9 +9218,9 @@ NavbarStyle.displayName = 'NavbarStyle';
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/Text/index.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Text/index.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Text/index.js ***!
+  \*****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9904,7 +9241,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/Text/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/Text/index.js";
 
 
 
@@ -9946,9 +9283,9 @@ Text.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/UI/Logo/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/UI/Logo/index.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/UI/Logo/index.js ***!
+  \********************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9965,7 +9302,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Image__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../Image */ "../../node_modules/reusecore/src/elements/Image/index.js");
 
 
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/UI/Logo/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/UI/Logo/index.js";
 
 
 
@@ -10060,9 +9397,9 @@ Logo.defaultProps = {
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/elements/base.js":
-/*!************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/elements/base.js ***!
-  \************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/elements/base.js ***!
+  \***********************************************************************************/
 /*! exports provided: themed, base */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10092,9 +9429,9 @@ base.propTypes = Object(_babel_runtime_corejs2_helpers_esm_objectSpread__WEBPACK
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/hooks/index.js":
-/*!**********************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/hooks/index.js ***!
-  \**********************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/hooks/index.js ***!
+  \*********************************************************************************/
 /*! exports provided: useToggle */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10108,9 +9445,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/hooks/toggle/index.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/hooks/toggle/index.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/hooks/toggle/index.js ***!
+  \****************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10138,9 +9475,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/reusecore/src/theme/customVariant.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/reusecore/src/theme/customVariant.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/reusecore/src/theme/customVariant.js ***!
+  \*****************************************************************************************/
 /*! exports provided: cards, buttonStyle, colorStyle, sizeStyle */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10182,8 +9519,8 @@ var cards = Object(styled_system__WEBPACK_IMPORTED_MODULE_0__["variant"])({
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next-server/head */ "next-server/head");
-/* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_server_head__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react_stickynode__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-stickynode */ "react-stickynode");
 /* harmony import */ var react_stickynode__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_stickynode__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! styled-components */ "styled-components");
@@ -10205,7 +9542,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var common_src_containers_Agency_QualitySection__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! common/src/containers/Agency/QualitySection */ "../../node_modules/common/src/containers/Agency/QualitySection/index.js");
 /* harmony import */ var common_src_containers_Agency_Footer__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! common/src/containers/Agency/Footer */ "../../node_modules/common/src/containers/Agency/Footer/index.js");
 /* harmony import */ var common_src_contexts_DrawerContext__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! common/src/contexts/DrawerContext */ "../../node_modules/common/src/contexts/DrawerContext.js");
-var _jsxFileName = "/Users/harjot/Desktop/SuperProps/packages/landing/pages/index.js";
+var _jsxFileName = "/home/jonas/Desktop/zaiolanding/packages/landing/pages/index.js";
 
 
 
@@ -10241,7 +9578,7 @@ var _jsxFileName = "/Users/harjot/Desktop/SuperProps/packages/landing/pages/inde
       lineNumber: 28
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_server_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
@@ -10334,7 +9671,7 @@ var _jsxFileName = "/Users/harjot/Desktop/SuperProps/packages/landing/pages/inde
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/harjot/Desktop/SuperProps/packages/landing/pages/index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! /home/jonas/Desktop/zaiolanding/packages/landing/pages/index.js */"./pages/index.js");
 
 
 /***/ }),
@@ -10504,17 +9841,6 @@ module.exports = require("core-js/library/fn/object/set-prototype-of");
 
 /***/ }),
 
-/***/ "core-js/library/fn/reflect/construct":
-/*!*******************************************************!*\
-  !*** external "core-js/library/fn/reflect/construct" ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("core-js/library/fn/reflect/construct");
-
-/***/ }),
-
 /***/ "core-js/library/fn/symbol":
 /*!********************************************!*\
   !*** external "core-js/library/fn/symbol" ***!
@@ -10537,17 +9863,6 @@ module.exports = require("core-js/library/fn/symbol/iterator");
 
 /***/ }),
 
-/***/ "next-server/dist/lib/router/router":
-/*!*****************************************************!*\
-  !*** external "next-server/dist/lib/router/router" ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("next-server/dist/lib/router/router");
-
-/***/ }),
-
 /***/ "next-server/dist/lib/utils":
 /*!*********************************************!*\
   !*** external "next-server/dist/lib/utils" ***!
@@ -10559,14 +9874,25 @@ module.exports = require("next-server/dist/lib/utils");
 
 /***/ }),
 
-/***/ "next-server/head":
-/*!***********************************!*\
-  !*** external "next-server/head" ***!
-  \***********************************/
+/***/ "next/head":
+/*!****************************!*\
+  !*** external "next/head" ***!
+  \****************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = require("next-server/head");
+module.exports = require("next/head");
+
+/***/ }),
+
+/***/ "next/router":
+/*!******************************!*\
+  !*** external "next/router" ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("next/router");
 
 /***/ }),
 
@@ -10732,17 +10058,6 @@ module.exports = require("react-icons-kit/entypo/plus");
 /***/ (function(module, exports) {
 
 module.exports = require("react-icons-kit/ionicons/iosSearchStrong");
-
-/***/ }),
-
-/***/ "react-is":
-/*!***************************!*\
-  !*** external "react-is" ***!
-  \***************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = require("react-is");
 
 /***/ }),
 

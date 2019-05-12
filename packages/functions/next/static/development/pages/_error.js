@@ -1,9 +1,9 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_error.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_error.js"],{
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/from.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12,9 +12,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "../..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23,9 +23,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -34,9 +34,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -45,9 +45,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \**************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -56,9 +56,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \***************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -67,9 +67,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \***************************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -78,9 +78,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/set.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -89,9 +89,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/set */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -100,9 +100,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "../../nod
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -111,9 +111,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -130,9 +130,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -147,9 +147,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -177,9 +177,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -202,9 +202,9 @@ function _arrayWithoutHoles(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -222,9 +222,9 @@ function _assertThisInitialized(self) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -240,9 +240,9 @@ function _classCallCheck(instance, Constructor) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
-  \*******************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js ***!
+  \******************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -273,9 +273,9 @@ function _createClass(Constructor, protoProps, staticProps) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -298,9 +298,9 @@ function _getPrototypeOf(o) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -330,9 +330,9 @@ function _inherits(subClass, superClass) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -352,9 +352,9 @@ function _iterableToArray(iter) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -368,9 +368,9 @@ function _nonIterableSpread() {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
-  \*********************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js ***!
+  \********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -392,9 +392,9 @@ function _possibleConstructorReturn(self, call) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/setPrototypeOf.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -416,9 +416,9 @@ function _setPrototypeOf(o, p) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js ***!
+  \************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -438,9 +438,9 @@ function _toConsumableArray(arr) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js ***!
+  \*************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -473,9 +473,9 @@ function _typeof(obj) {
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -495,9 +495,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -525,9 +525,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \*************************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -542,9 +542,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \*****************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -565,9 +565,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -587,9 +587,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -618,9 +618,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/from.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/array/from.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/array/from.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -632,9 +632,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/is-array.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/array/is-array.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/array/is-array.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -645,9 +645,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/is-iterable.js":
-/*!***************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/is-iterable.js ***!
-  \***************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/is-iterable.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -659,9 +659,9 @@ module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/create.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/object/create.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/object/create.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -675,9 +675,9 @@ module.exports = function create(P, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-property.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/object/define-property.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/object/define-property.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -691,9 +691,9 @@ module.exports = function defineProperty(it, key, desc) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-prototype-of.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -704,9 +704,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/set-prototype-of.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -717,9 +717,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/set.js":
-/*!*******************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/set.js ***!
-  \*******************************************************************************/
+/*!******************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/set.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -736,9 +736,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/index.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/symbol/index.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/symbol/index.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -752,9 +752,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/iterator.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/fn/symbol/iterator.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/fn/symbol/iterator.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -766,9 +766,9 @@ module.exports = __webpack_require__(/*! ../../modules/_wks-ext */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_a-function.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_a-function.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_a-function.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -781,9 +781,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -793,9 +793,9 @@ module.exports = function () { /* empty */ };
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-instance.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_an-instance.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_an-instance.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -809,9 +809,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-object.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_an-object.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_an-object.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -825,9 +825,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-from-iterable.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_array-from-iterable.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_array-from-iterable.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -843,9 +843,9 @@ module.exports = function (iter, ITERATOR) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-includes.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_array-includes.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_array-includes.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -877,9 +877,9 @@ module.exports = function (IS_INCLUDES) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-methods.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_array-methods.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_array-methods.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -932,9 +932,9 @@ module.exports = function (TYPE, $create) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-constructor.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_array-species-constructor.js ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_array-species-constructor.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -959,9 +959,9 @@ module.exports = function (original) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-create.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_array-species-create.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_array-species-create.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -976,9 +976,9 @@ module.exports = function (original, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_classof.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_classof.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_classof.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1010,9 +1010,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_cof.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_cof.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_cof.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1026,9 +1026,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-strong.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_collection-strong.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_collection-strong.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1182,9 +1182,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-to-json.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_collection-to-json.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_collection-to-json.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1202,9 +1202,9 @@ module.exports = function (NAME) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_collection.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_collection.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1273,9 +1273,9 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_core.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_core.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_core.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1286,9 +1286,9 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_create-property.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_create-property.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_create-property.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1306,9 +1306,9 @@ module.exports = function (object, index, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ctx.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_ctx.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_ctx.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1337,9 +1337,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_defined.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_defined.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_defined.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1353,9 +1353,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_descriptors.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_descriptors.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_descriptors.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1368,9 +1368,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_dom-create.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_dom-create.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_dom-create.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1386,9 +1386,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1401,9 +1401,9 @@ module.exports = (
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-keys.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_enum-keys.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_enum-keys.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1427,9 +1427,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_export.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_export.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_export.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1500,9 +1500,9 @@ module.exports = $export;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_fails.js":
-/*!***************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_fails.js ***!
-  \***************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_fails.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1518,9 +1518,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_for-of.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_for-of.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_for-of.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1554,9 +1554,9 @@ exports.RETURN = RETURN;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_global.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_global.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_global.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1571,9 +1571,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_has.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_has.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_has.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1586,9 +1586,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_hide.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_hide.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_hide.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1605,9 +1605,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_html.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_html.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_html.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1618,9 +1618,9 @@ module.exports = document && document.documentElement;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1632,9 +1632,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iobject.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iobject.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iobject.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1649,9 +1649,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_is-array-iter.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1668,9 +1668,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_is-array.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_is-array.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1684,9 +1684,9 @@ module.exports = Array.isArray || function isArray(arg) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-object.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_is-object.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_is-object.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1698,9 +1698,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-call.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iter-call.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iter-call.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1721,9 +1721,9 @@ module.exports = function (iterator, fn, value, entries) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-create.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iter-create.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iter-create.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1746,9 +1746,9 @@ module.exports = function (Constructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-define.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iter-define.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iter-define.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1827,9 +1827,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iter-detect.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iter-detect.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1860,9 +1860,9 @@ module.exports = function (exec, skipClosing) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-step.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iter-step.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iter-step.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1874,9 +1874,9 @@ module.exports = function (done, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iterators.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_iterators.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_iterators.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1886,9 +1886,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_library.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_library.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_library.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1898,9 +1898,9 @@ module.exports = true;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_meta.js":
-/*!**************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_meta.js ***!
-  \**************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_meta.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1962,9 +1962,9 @@ var meta = module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-create.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-create.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-create.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2014,9 +2014,9 @@ module.exports = Object.create || function create(O, Properties) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dp.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-dp.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-dp.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2041,9 +2041,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dps.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-dps.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-dps.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2065,9 +2065,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopd.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-gopd.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-gopd.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2092,9 +2092,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn-ext.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2122,9 +2122,9 @@ module.exports.f = function getOwnPropertyNames(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-gopn.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-gopn.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2140,9 +2140,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gops.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-gops.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-gops.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2152,9 +2152,9 @@ exports.f = Object.getOwnPropertySymbols;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-gpo.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-gpo.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2176,9 +2176,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-keys-internal.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2204,9 +2204,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-keys.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-keys.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2222,9 +2222,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-pie.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-pie.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-pie.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2234,9 +2234,9 @@ exports.f = {}.propertyIsEnumerable;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-sap.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_object-sap.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_object-sap.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2255,9 +2255,9 @@ module.exports = function (KEY, exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_property-desc.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_property-desc.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_property-desc.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2274,9 +2274,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_redefine-all.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_redefine-all.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2292,9 +2292,9 @@ module.exports = function (target, src, safe) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine.js":
-/*!******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_redefine.js ***!
-  \******************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_redefine.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2304,9 +2304,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-from.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_set-collection-from.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_set-collection-from.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2344,9 +2344,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-of.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_set-collection-of.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_set-collection-of.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2368,9 +2368,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-proto.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_set-proto.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_set-proto.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2404,9 +2404,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-species.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_set-species.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_set-species.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2430,9 +2430,9 @@ module.exports = function (KEY) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2448,9 +2448,9 @@ module.exports = function (it, tag, stat) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared-key.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_shared-key.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_shared-key.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2464,9 +2464,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_shared.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_shared.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2487,9 +2487,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-at.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_string-at.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_string-at.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2515,9 +2515,9 @@ module.exports = function (TO_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-absolute-index.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2533,9 +2533,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-integer.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-integer.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-integer.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2550,9 +2550,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-iobject.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-iobject.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2567,9 +2567,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-length.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-length.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-length.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2584,9 +2584,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-object.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-object.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-object.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2600,9 +2600,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_to-primitive.js ***!
-  \**********************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_to-primitive.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2623,9 +2623,9 @@ module.exports = function (it, S) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_uid.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_uid.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_uid.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2639,9 +2639,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_validate-collection.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_validate-collection.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_validate-collection.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2655,9 +2655,9 @@ module.exports = function (it, TYPE) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-define.js":
-/*!********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_wks-define.js ***!
-  \********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_wks-define.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2675,9 +2675,9 @@ module.exports = function (name) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-ext.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_wks-ext.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_wks-ext.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2687,9 +2687,9 @@ exports.f = __webpack_require__(/*! ./_wks */ "../../node_modules/core-js/librar
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks.js":
-/*!*************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/_wks.js ***!
-  \*************************************************************************************/
+/*!************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/_wks.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2709,9 +2709,9 @@ $exports.store = store;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
-  \*********************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2728,9 +2728,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.is-iterable.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/core.is-iterable.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2749,9 +2749,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.from.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.array.from.js ***!
-  \***********************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.array.from.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2798,9 +2798,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.is-array.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.array.is-array.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.array.is-array.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2813,9 +2813,9 @@ $export($export.S, 'Array', { isArray: __webpack_require__(/*! ./_is-array */ ".
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.array.iterator.js ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2859,9 +2859,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.object.create.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.object.create.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2873,9 +2873,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-property.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.object.define-property.js ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.object.define-property.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2887,9 +2887,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
-  \************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2907,9 +2907,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.set-prototype-of.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
-  \************************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2921,9 +2921,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.object.to-string.js ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.object.to-string.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -2932,9 +2932,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.set.js":
-/*!****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.set.js ***!
-  \****************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.set.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2958,9 +2958,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.string.iterator.js ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2987,9 +2987,9 @@ __webpack_require__(/*! ./_iter-define */ "../../node_modules/core-js/library/mo
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.symbol.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es6.symbol.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es6.symbol.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3233,9 +3233,9 @@ setToStringTag(global.JSON, 'JSON', true);
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.from.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es7.set.from.js ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es7.set.from.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3246,9 +3246,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.of.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es7.set.of.js ***!
-  \*******************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es7.set.of.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3259,9 +3259,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.to-json.js":
-/*!************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es7.set.to-json.js ***!
-  \************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es7.set.to-json.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3274,9 +3274,9 @@ $export($export.P + $export.R, 'Set', { toJSON: __webpack_require__(/*! ./_colle
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
-  \**********************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3286,9 +3286,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.observable.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3298,9 +3298,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/core-js/library/modules/web.dom.iterable.js ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3327,144 +3327,108 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "../../node_modules/http-status/lib/index.js":
-/*!******************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/http-status/lib/index.js ***!
-  \******************************************************************************/
+/***/ "../../node_modules/next-server/dist/lib/amp.js":
+/*!********************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/dist/lib/amp.js ***!
+  \********************************************************************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-// Generated by CoffeeScript 1.10.0
-module.exports = {
-  100: 'Continue',
-  101: 'Switching Protocols',
-  200: 'OK',
-  201: 'Created',
-  202: 'Accepted',
-  203: 'Non-Authoritative Information',
-  204: 'No Content',
-  205: 'Reset Content',
-  206: 'Partial Content',
-  207: 'Multi Status',
-  208: 'Already Reported',
-  226: 'IM Used',
-  300: 'Multiple Choices',
-  301: 'Moved Permanently',
-  302: 'Found',
-  303: 'See Other',
-  304: 'Not Modified',
-  305: 'Use Proxy',
-  306: 'Switch Proxy',
-  307: 'Temporary Redirect',
-  308: 'Permanent Redirect',
-  400: 'Bad Request',
-  401: 'Unauthorized',
-  402: 'Payment Required',
-  403: 'Forbidden',
-  404: 'Not Found',
-  405: 'Method Not Allowed',
-  406: 'Not Acceptable',
-  407: 'Proxy Authentication Required',
-  408: 'Request Time-out',
-  409: 'Conflict',
-  410: 'Gone',
-  411: 'Length Required',
-  412: 'Precondition Failed',
-  413: 'Request Entity Too Large',
-  414: 'Request-URI Too Large',
-  415: 'Unsupported Media Type',
-  416: 'Requested Range not Satisfiable',
-  417: 'Expectation Failed',
-  418: 'I\'m a teapot',
-  421: 'Misdirected Request',
-  422: 'Unprocessable Entity',
-  423: 'Locked',
-  424: 'Failed Dependency',
-  426: 'Upgrade Required',
-  428: 'Precondition Required',
-  429: 'Too Many Requests',
-  431: 'Request Header Fields Too Large',
-  451: 'Unavailable For Legal Reasons',
-  500: 'Internal Server Error',
-  501: 'Not Implemented',
-  502: 'Bad Gateway',
-  503: 'Service Unavailable',
-  504: 'Gateway Time-out',
-  505: 'HTTP Version not Supported',
-  506: 'Variant Also Negotiates',
-  507: 'Insufficient Storage',
-  508: 'Loop Detected',
-  510: 'Not Extended',
-  511: 'Network Authentication Required',
-  CONTINUE: 100,
-  SWITCHING_PROTOCOLS: 101,
-  OK: 200,
-  CREATED: 201,
-  ACCEPTED: 202,
-  NON_AUTHORITATIVE_INFORMATION: 203,
-  NO_CONTENT: 204,
-  RESET_CONTENT: 205,
-  PARTIAL_CONTENT: 206,
-  MULTI_STATUS: 207,
-  ALREADY_REPORTED: 208,
-  IM_USED: 226,
-  MULTIPLE_CHOICES: 300,
-  MOVED_PERMANENTLY: 301,
-  FOUND: 302,
-  SEE_OTHER: 303,
-  NOT_MODIFIED: 304,
-  USE_PROXY: 305,
-  SWITCH_PROXY: 306,
-  TEMPORARY_REDIRECT: 307,
-  PERMANENT_REDIRECT: 308,
-  BAD_REQUEST: 400,
-  UNAUTHORIZED: 401,
-  PAYMENT_REQUIRED: 402,
-  FORBIDDEN: 403,
-  NOT_FOUND: 404,
-  METHOD_NOT_ALLOWED: 405,
-  NOT_ACCEPTABLE: 406,
-  PROXY_AUTHENTICATION_REQUIRED: 407,
-  REQUEST_TIMEOUT: 408,
-  CONFLICT: 409,
-  GONE: 410,
-  LENGTH_REQUIRED: 411,
-  PRECONDITION_FAILED: 412,
-  REQUEST_ENTITY_TOO_LARGE: 413,
-  REQUEST_URI_TOO_LONG: 414,
-  UNSUPPORTED_MEDIA_TYPE: 415,
-  REQUESTED_RANGE_NOT_SATISFIABLE: 416,
-  EXPECTATION_FAILED: 417,
-  IM_A_TEAPOT: 418,
-  MISDIRECTED_REQUEST: 421,
-  UNPROCESSABLE_ENTITY: 422,
-  UPGRADE_REQUIRED: 426,
-  PRECONDITION_REQUIRED: 428,
-  LOCKED: 423,
-  FAILED_DEPENDENCY: 424,
-  TOO_MANY_REQUESTS: 429,
-  REQUEST_HEADER_FIELDS_TOO_LARGE: 431,
-  UNAVAILABLE_FOR_LEGAL_REASONS: 451,
-  INTERNAL_SERVER_ERROR: 500,
-  NOT_IMPLEMENTED: 501,
-  BAD_GATEWAY: 502,
-  SERVICE_UNAVAILABLE: 503,
-  GATEWAY_TIMEOUT: 504,
-  HTTP_VERSION_NOT_SUPPORTED: 505,
-  VARIANT_ALSO_NEGOTIATES: 506,
-  INSUFFICIENT_STORAGE: 507,
-  LOOP_DETECTED: 508,
-  NOT_EXTENDED: 510,
-  NETWORK_AUTHENTICATION_REQUIRED: 511
+"use strict";
+
+
+var __importDefault = void 0 && (void 0).__importDefault || function (mod) {
+  return mod && mod.__esModule ? mod : {
+    "default": mod
+  };
 };
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var react_1 = __importDefault(__webpack_require__(/*! react */ "../../node_modules/react/index.js"));
+
+var amphtml_context_1 = __webpack_require__(/*! ./amphtml-context */ "../../node_modules/next-server/dist/lib/amphtml-context.js");
+
+function isAmp() {
+  var _ref = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {},
+      _ref$enabled = _ref.enabled,
+      enabled = _ref$enabled === void 0 ? false : _ref$enabled,
+      _ref$hybrid = _ref.hybrid,
+      hybrid = _ref$hybrid === void 0 ? false : _ref$hybrid,
+      _ref$hasQuery = _ref.hasQuery,
+      hasQuery = _ref$hasQuery === void 0 ? false : _ref$hasQuery;
+
+  return enabled && (!hybrid || hybrid && hasQuery);
+}
+
+exports.isAmp = isAmp;
+
+function useAmp() {
+  var ampMode = react_1.default.useContext(amphtml_context_1.AmpModeContext); // un-comment below to not be considered AMP in dirty mode
+
+  return isAmp(ampMode); // && ampMode.hasQuery
+}
+
+exports.useAmp = useAmp;
+
+function withAmp(Component) {
+  var _ref2 = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {},
+      _ref2$hybrid = _ref2.hybrid,
+      hybrid = _ref2$hybrid === void 0 ? false : _ref2$hybrid;
+
+  function WithAmpWrapper() {
+    var props = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+    var ampMode = react_1.default.useContext(amphtml_context_1.AmpModeContext);
+    ampMode.enabled = true;
+    ampMode.hybrid = hybrid;
+    return react_1.default.createElement(Component, props);
+  }
+
+  WithAmpWrapper.__nextAmpOnly = !hybrid;
+  WithAmpWrapper.getInitialProps = Component.getInitialProps;
+  return WithAmpWrapper;
+}
+
+exports.withAmp = withAmp;
+
+/***/ }),
+
+/***/ "../../node_modules/next-server/dist/lib/amphtml-context.js":
+/*!********************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/dist/lib/amphtml-context.js ***!
+  \********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+var __importStar = void 0 && (void 0).__importStar || function (mod) {
+  if (mod && mod.__esModule) return mod;
+  var result = {};
+  if (mod != null) for (var k in mod) {
+    if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
+  }
+  result["default"] = mod;
+  return result;
+};
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var React = __importStar(__webpack_require__(/*! react */ "../../node_modules/react/index.js"));
+
+exports.AmpModeContext = React.createContext({});
 
 /***/ }),
 
 /***/ "../../node_modules/next-server/dist/lib/head-manager-context.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next-server/dist/lib/head-manager-context.js ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/dist/lib/head-manager-context.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3492,9 +3456,9 @@ exports.HeadManagerContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next-server/dist/lib/head.js":
-/*!**********************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next-server/dist/lib/head.js ***!
-  \**********************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/dist/lib/head.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3519,15 +3483,31 @@ var react_1 = __importDefault(__webpack_require__(/*! react */ "../../node_modul
 
 var side_effect_1 = __importDefault(__webpack_require__(/*! ./side-effect */ "../../node_modules/next-server/dist/lib/side-effect.js"));
 
+var amphtml_context_1 = __webpack_require__(/*! ./amphtml-context */ "../../node_modules/next-server/dist/lib/amphtml-context.js");
+
 var head_manager_context_1 = __webpack_require__(/*! ./head-manager-context */ "../../node_modules/next-server/dist/lib/head-manager-context.js");
+
+var amp_1 = __webpack_require__(/*! ./amp */ "../../node_modules/next-server/dist/lib/amp.js");
 
 function defaultHead() {
   var className = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 'next-head';
-  return [react_1.default.createElement("meta", {
+  var isAmp = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
+  var head = [react_1.default.createElement("meta", {
     key: "charSet",
     charSet: "utf-8",
     className: className
   })];
+
+  if (!isAmp) {
+    head.push(react_1.default.createElement("meta", {
+      key: "viewport",
+      name: "viewport",
+      content: "width=device-width,minimum-scale=1,initial-scale=1",
+      className: className
+    }));
+  }
+
+  return head;
 }
 
 exports.defaultHead = defaultHead;
@@ -3552,7 +3532,7 @@ function onlyReactElement(list, child) {
   return list.concat(child);
 }
 
-var METATYPES = ["name", "httpEquiv", "charSet", "itemProp"];
+var METATYPES = ["name", "httpEquiv", "charSet", "viewport", "itemProp"];
 /*
  returns a function for filtering head child elements
  which shouldn't be duplicated, like <title/>
@@ -3583,7 +3563,7 @@ function unique() {
           var metatype = METATYPES[i];
           if (!h.props.hasOwnProperty(metatype)) continue;
 
-          if (metatype === "charSet") {
+          if (metatype === "charSet" || metatype === "viewport") {
             if (metaTypes.has(metatype)) return false;
             metaTypes.add(metatype);
           } else {
@@ -3607,11 +3587,11 @@ function unique() {
  */
 
 
-function reduceComponents(headElements) {
+function reduceComponents(headElements, props) {
   return headElements.reduce(function (list, headElement) {
     var headElementChildren = react_1.default.Children.toArray(headElement.props.children);
     return list.concat(headElementChildren);
-  }, []).reduce(onlyReactElement, []).reverse().concat(defaultHead('')).filter(unique()).reverse().map(function (c, i) {
+  }, []).reduce(onlyReactElement, []).reverse().concat(defaultHead('', props.isAmp)).filter(unique()).reverse().map(function (c, i) {
     var className = (c.props && c.props.className ? c.props.className + " " : "") + "next-head";
     var key = c.key || i;
     return react_1.default.cloneElement(c, {
@@ -3625,11 +3605,14 @@ var Effect = side_effect_1.default();
 
 function Head(_ref) {
   var children = _ref.children;
-  return react_1.default.createElement(head_manager_context_1.HeadManagerContext.Consumer, null, function (updateHead) {
-    return react_1.default.createElement(Effect, {
-      reduceComponentsToState: reduceComponents,
-      handleStateChange: updateHead
-    }, children);
+  return react_1.default.createElement(amphtml_context_1.AmpModeContext.Consumer, null, function (ampMode) {
+    return react_1.default.createElement(head_manager_context_1.HeadManagerContext.Consumer, null, function (updateHead) {
+      return react_1.default.createElement(Effect, {
+        reduceComponentsToState: reduceComponents,
+        handleStateChange: updateHead,
+        isAmp: amp_1.isAmp(ampMode)
+      }, children);
+    });
   });
 }
 
@@ -3639,9 +3622,9 @@ exports.default = Head;
 /***/ }),
 
 /***/ "../../node_modules/next-server/dist/lib/side-effect.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next-server/dist/lib/side-effect.js ***!
-  \*****************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/dist/lib/side-effect.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3679,7 +3662,7 @@ function withSideEffect() {
   var state;
 
   function emitChange(component) {
-    state = component.props.reduceComponentsToState((0, _toConsumableArray2.default)(mountedInstances));
+    state = component.props.reduceComponentsToState((0, _toConsumableArray2.default)(mountedInstances), component.props);
 
     if (component.props.handleStateChange) {
       component.props.handleStateChange(state);
@@ -3749,9 +3732,9 @@ exports.default = withSideEffect;
 /***/ }),
 
 /***/ "../../node_modules/next-server/head.js":
-/*!*************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next-server/head.js ***!
-  \*************************************************************************/
+/*!************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next-server/head.js ***!
+  \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3761,9 +3744,9 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error!./":
-/*!******************************************************************************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error ***!
-  \******************************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3784,9 +3767,9 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/next/dist/pages/_error.js":
-/*!*******************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/dist/pages/_error.js ***!
-  \*******************************************************************************/
+/*!******************************************************************************!*\
+  !*** /home/jonas/Desktop/zaiolanding/node_modules/next/dist/pages/_error.js ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3817,11 +3800,14 @@ Object.defineProperty(exports, "__esModule", {
 
 var react_1 = __importDefault(__webpack_require__(/*! react */ "../../node_modules/react/index.js"));
 
-var prop_types_1 = __importDefault(__webpack_require__(/*! prop-types */ "../../node_modules/next/node_modules/prop-types/index.js"));
-
-var http_status_1 = __importDefault(__webpack_require__(/*! http-status */ "../../node_modules/http-status/lib/index.js"));
-
 var head_1 = __importDefault(__webpack_require__(/*! next-server/head */ "../../node_modules/next-server/head.js"));
+
+var statusCodes = {
+  400: 'Bad Request',
+  404: 'This page could not be found',
+  500: 'Internal Server Error',
+  501: 'Not Implemented'
+};
 
 var Error =
 /*#__PURE__*/
@@ -3837,13 +3823,10 @@ function (_react_1$default$Comp) {
     key: "render",
     value: function render() {
       var statusCode = this.props.statusCode;
-      var title = statusCode === 404 ? 'This page could not be found' : http_status_1.default[statusCode] || 'An unexpected error has occurred';
+      var title = statusCodes[statusCode] || 'An unexpected error has occurred';
       return react_1.default.createElement("div", {
         style: styles.error
-      }, react_1.default.createElement(head_1.default, null, react_1.default.createElement("meta", {
-        name: 'viewport',
-        content: 'width=device-width, initial-scale=1.0'
-      }), react_1.default.createElement("title", null, statusCode, ": ", title)), react_1.default.createElement("div", null, react_1.default.createElement("style", {
+      }, react_1.default.createElement(head_1.default, null, react_1.default.createElement("title", null, statusCode, ": ", title)), react_1.default.createElement("div", null, react_1.default.createElement("style", {
         dangerouslySetInnerHTML: {
           __html: 'body { margin: 0 }'
         }
@@ -3871,13 +3854,6 @@ function (_react_1$default$Comp) {
 
 Error.displayName = 'ErrorPage';
 exports.default = Error;
-
-if (true) {
-  Error.propTypes = {
-    statusCode: prop_types_1.default.number
-  };
-}
-
 var styles = {
   error: {
     color: '#000',
@@ -3918,767 +3894,27 @@ var styles = {
 
 /***/ }),
 
-/***/ "../../node_modules/next/node_modules/prop-types/checkPropTypes.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/node_modules/prop-types/checkPropTypes.js ***!
-  \****************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var printWarning = function() {};
-
-if (true) {
-  var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
-  var loggedTypeFailures = {};
-
-  printWarning = function(text) {
-    var message = 'Warning: ' + text;
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-}
-
-/**
- * Assert that the values match with the type specs.
- * Error messages are memorized and will only be shown once.
- *
- * @param {object} typeSpecs Map of name to a ReactPropType
- * @param {object} values Runtime values that need to be type-checked
- * @param {string} location e.g. "prop", "context", "child context"
- * @param {string} componentName Name of the component for error messages.
- * @param {?Function} getStack Returns the component stack.
- * @private
- */
-function checkPropTypes(typeSpecs, values, location, componentName, getStack) {
-  if (true) {
-    for (var typeSpecName in typeSpecs) {
-      if (typeSpecs.hasOwnProperty(typeSpecName)) {
-        var error;
-        // Prop type validation may throw. In case they do, we don't want to
-        // fail the render phase where it didn't fail before. So we log it.
-        // After these have been cleaned up, we'll let them throw.
-        try {
-          // This is intentionally an invariant that gets caught. It's the same
-          // behavior as without this statement except with a better message.
-          if (typeof typeSpecs[typeSpecName] !== 'function') {
-            var err = Error(
-              (componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' +
-              'it must be a function, usually from the `prop-types` package, but received `' + typeof typeSpecs[typeSpecName] + '`.'
-            );
-            err.name = 'Invariant Violation';
-            throw err;
-          }
-          error = typeSpecs[typeSpecName](values, typeSpecName, componentName, location, null, ReactPropTypesSecret);
-        } catch (ex) {
-          error = ex;
-        }
-        if (error && !(error instanceof Error)) {
-          printWarning(
-            (componentName || 'React class') + ': type specification of ' +
-            location + ' `' + typeSpecName + '` is invalid; the type checker ' +
-            'function must return `null` or an `Error` but returned a ' + typeof error + '. ' +
-            'You may have forgotten to pass an argument to the type checker ' +
-            'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' +
-            'shape all require an argument).'
-          )
-
-        }
-        if (error instanceof Error && !(error.message in loggedTypeFailures)) {
-          // Only monitor this failure once because there tends to be a lot of the
-          // same error.
-          loggedTypeFailures[error.message] = true;
-
-          var stack = getStack ? getStack() : '';
-
-          printWarning(
-            'Failed ' + location + ' type: ' + error.message + (stack != null ? stack : '')
-          );
-        }
-      }
-    }
-  }
-}
-
-module.exports = checkPropTypes;
-
-
-/***/ }),
-
-/***/ "../../node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \*************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var assign = __webpack_require__(/*! object-assign */ "../../node_modules/object-assign/index.js");
-
-var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js");
-var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "../../node_modules/next/node_modules/prop-types/checkPropTypes.js");
-
-var printWarning = function() {};
-
-if (true) {
-  printWarning = function(text) {
-    var message = 'Warning: ' + text;
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  };
-}
-
-function emptyFunctionThatReturnsNull() {
-  return null;
-}
-
-module.exports = function(isValidElement, throwOnDirectAccess) {
-  /* global Symbol */
-  var ITERATOR_SYMBOL = typeof Symbol === 'function' && Symbol.iterator;
-  var FAUX_ITERATOR_SYMBOL = '@@iterator'; // Before Symbol spec.
-
-  /**
-   * Returns the iterator method function contained on the iterable object.
-   *
-   * Be sure to invoke the function with the iterable as context:
-   *
-   *     var iteratorFn = getIteratorFn(myIterable);
-   *     if (iteratorFn) {
-   *       var iterator = iteratorFn.call(myIterable);
-   *       ...
-   *     }
-   *
-   * @param {?object} maybeIterable
-   * @return {?function}
-   */
-  function getIteratorFn(maybeIterable) {
-    var iteratorFn = maybeIterable && (ITERATOR_SYMBOL && maybeIterable[ITERATOR_SYMBOL] || maybeIterable[FAUX_ITERATOR_SYMBOL]);
-    if (typeof iteratorFn === 'function') {
-      return iteratorFn;
-    }
-  }
-
-  /**
-   * Collection of methods that allow declaration and validation of props that are
-   * supplied to React components. Example usage:
-   *
-   *   var Props = require('ReactPropTypes');
-   *   var MyArticle = React.createClass({
-   *     propTypes: {
-   *       // An optional string prop named "description".
-   *       description: Props.string,
-   *
-   *       // A required enum prop named "category".
-   *       category: Props.oneOf(['News','Photos']).isRequired,
-   *
-   *       // A prop named "dialog" that requires an instance of Dialog.
-   *       dialog: Props.instanceOf(Dialog).isRequired
-   *     },
-   *     render: function() { ... }
-   *   });
-   *
-   * A more formal specification of how these methods are used:
-   *
-   *   type := array|bool|func|object|number|string|oneOf([...])|instanceOf(...)
-   *   decl := ReactPropTypes.{type}(.isRequired)?
-   *
-   * Each and every declaration produces a function with the same signature. This
-   * allows the creation of custom validation functions. For example:
-   *
-   *  var MyLink = React.createClass({
-   *    propTypes: {
-   *      // An optional string or URI prop named "href".
-   *      href: function(props, propName, componentName) {
-   *        var propValue = props[propName];
-   *        if (propValue != null && typeof propValue !== 'string' &&
-   *            !(propValue instanceof URI)) {
-   *          return new Error(
-   *            'Expected a string or an URI for ' + propName + ' in ' +
-   *            componentName
-   *          );
-   *        }
-   *      }
-   *    },
-   *    render: function() {...}
-   *  });
-   *
-   * @internal
-   */
-
-  var ANONYMOUS = '<<anonymous>>';
-
-  // Important!
-  // Keep this list in sync with production version in `./factoryWithThrowingShims.js`.
-  var ReactPropTypes = {
-    array: createPrimitiveTypeChecker('array'),
-    bool: createPrimitiveTypeChecker('boolean'),
-    func: createPrimitiveTypeChecker('function'),
-    number: createPrimitiveTypeChecker('number'),
-    object: createPrimitiveTypeChecker('object'),
-    string: createPrimitiveTypeChecker('string'),
-    symbol: createPrimitiveTypeChecker('symbol'),
-
-    any: createAnyTypeChecker(),
-    arrayOf: createArrayOfTypeChecker,
-    element: createElementTypeChecker(),
-    instanceOf: createInstanceTypeChecker,
-    node: createNodeChecker(),
-    objectOf: createObjectOfTypeChecker,
-    oneOf: createEnumTypeChecker,
-    oneOfType: createUnionTypeChecker,
-    shape: createShapeTypeChecker,
-    exact: createStrictShapeTypeChecker,
-  };
-
-  /**
-   * inlined Object.is polyfill to avoid requiring consumers ship their own
-   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is
-   */
-  /*eslint-disable no-self-compare*/
-  function is(x, y) {
-    // SameValue algorithm
-    if (x === y) {
-      // Steps 1-5, 7-10
-      // Steps 6.b-6.e: +0 != -0
-      return x !== 0 || 1 / x === 1 / y;
-    } else {
-      // Step 6.a: NaN == NaN
-      return x !== x && y !== y;
-    }
-  }
-  /*eslint-enable no-self-compare*/
-
-  /**
-   * We use an Error-like object for backward compatibility as people may call
-   * PropTypes directly and inspect their output. However, we don't use real
-   * Errors anymore. We don't inspect their stack anyway, and creating them
-   * is prohibitively expensive if they are created too often, such as what
-   * happens in oneOfType() for any type before the one that matched.
-   */
-  function PropTypeError(message) {
-    this.message = message;
-    this.stack = '';
-  }
-  // Make `instanceof Error` still work for returned errors.
-  PropTypeError.prototype = Error.prototype;
-
-  function createChainableTypeChecker(validate) {
-    if (true) {
-      var manualPropTypeCallCache = {};
-      var manualPropTypeWarningCount = 0;
-    }
-    function checkType(isRequired, props, propName, componentName, location, propFullName, secret) {
-      componentName = componentName || ANONYMOUS;
-      propFullName = propFullName || propName;
-
-      if (secret !== ReactPropTypesSecret) {
-        if (throwOnDirectAccess) {
-          // New behavior only for users of `prop-types` package
-          var err = new Error(
-            'Calling PropTypes validators directly is not supported by the `prop-types` package. ' +
-            'Use `PropTypes.checkPropTypes()` to call them. ' +
-            'Read more at http://fb.me/use-check-prop-types'
-          );
-          err.name = 'Invariant Violation';
-          throw err;
-        } else if ( true && typeof console !== 'undefined') {
-          // Old behavior for people using React.PropTypes
-          var cacheKey = componentName + ':' + propName;
-          if (
-            !manualPropTypeCallCache[cacheKey] &&
-            // Avoid spamming the console because they are often not actionable except for lib authors
-            manualPropTypeWarningCount < 3
-          ) {
-            printWarning(
-              'You are manually calling a React.PropTypes validation ' +
-              'function for the `' + propFullName + '` prop on `' + componentName  + '`. This is deprecated ' +
-              'and will throw in the standalone `prop-types` package. ' +
-              'You may be seeing this warning due to a third-party PropTypes ' +
-              'library. See https://fb.me/react-warning-dont-call-proptypes ' + 'for details.'
-            );
-            manualPropTypeCallCache[cacheKey] = true;
-            manualPropTypeWarningCount++;
-          }
-        }
-      }
-      if (props[propName] == null) {
-        if (isRequired) {
-          if (props[propName] === null) {
-            return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required ' + ('in `' + componentName + '`, but its value is `null`.'));
-          }
-          return new PropTypeError('The ' + location + ' `' + propFullName + '` is marked as required in ' + ('`' + componentName + '`, but its value is `undefined`.'));
-        }
-        return null;
-      } else {
-        return validate(props, propName, componentName, location, propFullName);
-      }
-    }
-
-    var chainedCheckType = checkType.bind(null, false);
-    chainedCheckType.isRequired = checkType.bind(null, true);
-
-    return chainedCheckType;
-  }
-
-  function createPrimitiveTypeChecker(expectedType) {
-    function validate(props, propName, componentName, location, propFullName, secret) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== expectedType) {
-        // `propValue` being instance of, say, date/regexp, pass the 'object'
-        // check, but we can offer a more precise error message here rather than
-        // 'of type `object`'.
-        var preciseType = getPreciseType(propValue);
-
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + preciseType + '` supplied to `' + componentName + '`, expected ') + ('`' + expectedType + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createAnyTypeChecker() {
-    return createChainableTypeChecker(emptyFunctionThatReturnsNull);
-  }
-
-  function createArrayOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside arrayOf.');
-      }
-      var propValue = props[propName];
-      if (!Array.isArray(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an array.'));
-      }
-      for (var i = 0; i < propValue.length; i++) {
-        var error = typeChecker(propValue, i, componentName, location, propFullName + '[' + i + ']', ReactPropTypesSecret);
-        if (error instanceof Error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createElementTypeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      if (!isValidElement(propValue)) {
-        var propType = getPropType(propValue);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected a single ReactElement.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createInstanceTypeChecker(expectedClass) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!(props[propName] instanceof expectedClass)) {
-        var expectedClassName = expectedClass.name || ANONYMOUS;
-        var actualClassName = getClassName(props[propName]);
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + actualClassName + '` supplied to `' + componentName + '`, expected ') + ('instance of `' + expectedClassName + '`.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createEnumTypeChecker(expectedValues) {
-    if (!Array.isArray(expectedValues)) {
-       true ? printWarning('Invalid argument supplied to oneOf, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      for (var i = 0; i < expectedValues.length; i++) {
-        if (is(propValue, expectedValues[i])) {
-          return null;
-        }
-      }
-
-      var valuesString = JSON.stringify(expectedValues);
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of value `' + propValue + '` ' + ('supplied to `' + componentName + '`, expected one of ' + valuesString + '.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createObjectOfTypeChecker(typeChecker) {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (typeof typeChecker !== 'function') {
-        return new PropTypeError('Property `' + propFullName + '` of component `' + componentName + '` has invalid PropType notation inside objectOf.');
-      }
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type ' + ('`' + propType + '` supplied to `' + componentName + '`, expected an object.'));
-      }
-      for (var key in propValue) {
-        if (propValue.hasOwnProperty(key)) {
-          var error = typeChecker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-          if (error instanceof Error) {
-            return error;
-          }
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createUnionTypeChecker(arrayOfTypeCheckers) {
-    if (!Array.isArray(arrayOfTypeCheckers)) {
-       true ? printWarning('Invalid argument supplied to oneOfType, expected an instance of array.') : undefined;
-      return emptyFunctionThatReturnsNull;
-    }
-
-    for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-      var checker = arrayOfTypeCheckers[i];
-      if (typeof checker !== 'function') {
-        printWarning(
-          'Invalid argument supplied to oneOfType. Expected an array of check functions, but ' +
-          'received ' + getPostfixForTypeWarning(checker) + ' at index ' + i + '.'
-        );
-        return emptyFunctionThatReturnsNull;
-      }
-    }
-
-    function validate(props, propName, componentName, location, propFullName) {
-      for (var i = 0; i < arrayOfTypeCheckers.length; i++) {
-        var checker = arrayOfTypeCheckers[i];
-        if (checker(props, propName, componentName, location, propFullName, ReactPropTypesSecret) == null) {
-          return null;
-        }
-      }
-
-      return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`.'));
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createNodeChecker() {
-    function validate(props, propName, componentName, location, propFullName) {
-      if (!isNode(props[propName])) {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` supplied to ' + ('`' + componentName + '`, expected a ReactNode.'));
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      for (var key in shapeTypes) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          continue;
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-    return createChainableTypeChecker(validate);
-  }
-
-  function createStrictShapeTypeChecker(shapeTypes) {
-    function validate(props, propName, componentName, location, propFullName) {
-      var propValue = props[propName];
-      var propType = getPropType(propValue);
-      if (propType !== 'object') {
-        return new PropTypeError('Invalid ' + location + ' `' + propFullName + '` of type `' + propType + '` ' + ('supplied to `' + componentName + '`, expected `object`.'));
-      }
-      // We need to check all keys in case some are required but missing from
-      // props.
-      var allKeys = assign({}, props[propName], shapeTypes);
-      for (var key in allKeys) {
-        var checker = shapeTypes[key];
-        if (!checker) {
-          return new PropTypeError(
-            'Invalid ' + location + ' `' + propFullName + '` key `' + key + '` supplied to `' + componentName + '`.' +
-            '\nBad object: ' + JSON.stringify(props[propName], null, '  ') +
-            '\nValid keys: ' +  JSON.stringify(Object.keys(shapeTypes), null, '  ')
-          );
-        }
-        var error = checker(propValue, key, componentName, location, propFullName + '.' + key, ReactPropTypesSecret);
-        if (error) {
-          return error;
-        }
-      }
-      return null;
-    }
-
-    return createChainableTypeChecker(validate);
-  }
-
-  function isNode(propValue) {
-    switch (typeof propValue) {
-      case 'number':
-      case 'string':
-      case 'undefined':
-        return true;
-      case 'boolean':
-        return !propValue;
-      case 'object':
-        if (Array.isArray(propValue)) {
-          return propValue.every(isNode);
-        }
-        if (propValue === null || isValidElement(propValue)) {
-          return true;
-        }
-
-        var iteratorFn = getIteratorFn(propValue);
-        if (iteratorFn) {
-          var iterator = iteratorFn.call(propValue);
-          var step;
-          if (iteratorFn !== propValue.entries) {
-            while (!(step = iterator.next()).done) {
-              if (!isNode(step.value)) {
-                return false;
-              }
-            }
-          } else {
-            // Iterator will provide entry [k,v] tuples rather than values.
-            while (!(step = iterator.next()).done) {
-              var entry = step.value;
-              if (entry) {
-                if (!isNode(entry[1])) {
-                  return false;
-                }
-              }
-            }
-          }
-        } else {
-          return false;
-        }
-
-        return true;
-      default:
-        return false;
-    }
-  }
-
-  function isSymbol(propType, propValue) {
-    // Native Symbol.
-    if (propType === 'symbol') {
-      return true;
-    }
-
-    // 19.4.3.5 Symbol.prototype[@@toStringTag] === 'Symbol'
-    if (propValue['@@toStringTag'] === 'Symbol') {
-      return true;
-    }
-
-    // Fallback for non-spec compliant Symbols which are polyfilled.
-    if (typeof Symbol === 'function' && propValue instanceof Symbol) {
-      return true;
-    }
-
-    return false;
-  }
-
-  // Equivalent of `typeof` but with special handling for array and regexp.
-  function getPropType(propValue) {
-    var propType = typeof propValue;
-    if (Array.isArray(propValue)) {
-      return 'array';
-    }
-    if (propValue instanceof RegExp) {
-      // Old webkits (at least until Android 4.0) return 'function' rather than
-      // 'object' for typeof a RegExp. We'll normalize this here so that /bla/
-      // passes PropTypes.object.
-      return 'object';
-    }
-    if (isSymbol(propType, propValue)) {
-      return 'symbol';
-    }
-    return propType;
-  }
-
-  // This handles more types than `getPropType`. Only used for error messages.
-  // See `createPrimitiveTypeChecker`.
-  function getPreciseType(propValue) {
-    if (typeof propValue === 'undefined' || propValue === null) {
-      return '' + propValue;
-    }
-    var propType = getPropType(propValue);
-    if (propType === 'object') {
-      if (propValue instanceof Date) {
-        return 'date';
-      } else if (propValue instanceof RegExp) {
-        return 'regexp';
-      }
-    }
-    return propType;
-  }
-
-  // Returns a string that is postfixed to a warning about an invalid type.
-  // For example, "undefined" or "of type array"
-  function getPostfixForTypeWarning(value) {
-    var type = getPreciseType(value);
-    switch (type) {
-      case 'array':
-      case 'object':
-        return 'an ' + type;
-      case 'boolean':
-      case 'date':
-      case 'regexp':
-        return 'a ' + type;
-      default:
-        return type;
-    }
-  }
-
-  // Returns class name of the object, if any.
-  function getClassName(propValue) {
-    if (!propValue.constructor || !propValue.constructor.name) {
-      return ANONYMOUS;
-    }
-    return propValue.constructor.name;
-  }
-
-  ReactPropTypes.checkPropTypes = checkPropTypes;
-  ReactPropTypes.PropTypes = ReactPropTypes;
-
-  return ReactPropTypes;
-};
-
-
-/***/ }),
-
-/***/ "../../node_modules/next/node_modules/prop-types/index.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/node_modules/prop-types/index.js ***!
-  \*******************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-if (true) {
-  var REACT_ELEMENT_TYPE = (typeof Symbol === 'function' &&
-    Symbol.for &&
-    Symbol.for('react.element')) ||
-    0xeac7;
-
-  var isValidElement = function(object) {
-    return typeof object === 'object' &&
-      object !== null &&
-      object.$$typeof === REACT_ELEMENT_TYPE;
-  };
-
-  // By explicitly using `prop-types` you are opting into new development behavior.
-  // http://fb.me/prop-types-in-prod
-  var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(/*! ./factoryWithTypeCheckers */ "../../node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js")(isValidElement, throwOnDirectAccess);
-} else {}
-
-
-/***/ }),
-
-/***/ "../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/harjot/Desktop/SuperProps/node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
-  \**************************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright (c) 2013-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-var ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';
-
-module.exports = ReactPropTypesSecret;
-
-
-/***/ }),
-
-/***/ "../../node_modules/object-assign/index.js":
-/*!*******************************************************************************************************!*\
-  !*** delegated ../../node_modules/object-assign/index.js from dll-reference dll_f7438655cca121f4c39e ***!
-  \*******************************************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = (__webpack_require__(/*! dll-reference dll_f7438655cca121f4c39e */ "dll-reference dll_f7438655cca121f4c39e"))("../../node_modules/object-assign/index.js");
-
-/***/ }),
-
 /***/ "../../node_modules/react/index.js":
 /*!***********************************************************************************************!*\
-  !*** delegated ../../node_modules/react/index.js from dll-reference dll_f7438655cca121f4c39e ***!
+  !*** delegated ../../node_modules/react/index.js from dll-reference dll_1342ff60a577f06fe117 ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_f7438655cca121f4c39e */ "dll-reference dll_f7438655cca121f4c39e"))("../../node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_1342ff60a577f06fe117 */ "dll-reference dll_1342ff60a577f06fe117"))("../../node_modules/react/index.js");
 
 /***/ }),
 
-/***/ "dll-reference dll_f7438655cca121f4c39e":
+/***/ "dll-reference dll_1342ff60a577f06fe117":
 /*!*******************************************!*\
-  !*** external "dll_f7438655cca121f4c39e" ***!
+  !*** external "dll_1342ff60a577f06fe117" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_f7438655cca121f4c39e;
+module.exports = dll_1342ff60a577f06fe117;
 
 /***/ })
 
-},[["../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error!./","static/runtime/webpack.js"]]]));;
+},[["../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error!./","static/runtime/webpack.js"]]]);
 //# sourceMappingURL=_error.js.map

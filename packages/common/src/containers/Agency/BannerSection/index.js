@@ -2,17 +2,18 @@ import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 import Box from 'reusecore/src/elements/Box';
-import Box2 from 'reusecore/src/elements/Box2';
 
 import Text from 'reusecore/src/elements/Text';
 import Heading from 'reusecore/src/elements/Heading';
 import Button from 'reusecore/src/elements/Button';
 import FeatureBlock from '../../../components/FeatureBlock';
-import FeatureBlock2 from '../../../components/FeatureBlock2';
 
 import Container from '../../../components/UI/Container';
 import Particles from '../../Agency/Particle';
 import BannerWrapper, { DiscountLabel } from './bannerSection.style';
+
+const devOptions = ["Build Your Portfolio", "Get Experience", "Land Dream Job"]
+const clientOptions = ["Rent A Dev Team", "Build An MVP/Prototype", "Hire Junior Developers"]
 
 const BannerSection = ({
   row,
@@ -25,57 +26,52 @@ const BannerSection = ({
   outlineBtnStyle,
 }) => {
   const ButtonGroup = () => (
-    <Fragment>
+    <div style={{textAlign: "center"}}>
       <Button title="LEARN MORE" {...btnStyle} />
-      <Button
-        title="WATCH WORKS"
-        variant="textButton"
-        icon={<i className="flaticon-next" />}
-        {...outlineBtnStyle}
-      />
-    </Fragment>
+    </div>
   );
   return (
     <BannerWrapper>
       <Particles />
       <Container>
         <Box className="row" {...row}>
-          <Box className="col" {...col}>
-            
+          <Box className="col" {...col} >
             <FeatureBlock 
               title={
                 <Heading
-                  content="Looking for tech services?"
+                style={{textAlign: "center"}}
+                  content="Developer"
                   {...title}
                 />
               }
               description={
+                
                 <Text
-                  content="Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly ."
+                  content={<ul style={{textAlign: "center"}}>{devOptions.map(item => <li style={{fontSize: "1.2rem"}}>{item}</li>)}</ul>}
                   {...description}
                 />
               }
               button={<ButtonGroup />}
             />
           </Box>
-          <Box2 className="col" {...col}>
-            
-            <FeatureBlock2 style={{color: "white"}}
-              title2={
+          <Box className="col" {...col}>
+            <FeatureBlock style={{color: "white"}}
+              title={
                 <Heading
-                  content="Looking for tech services?"
+                style={{textAlign: "center"}}
+                  content="Client"
                   {...title}
                 />
               }
-              description2={
+              description={
                 <Text
-                  content="Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly ."
+                content={<ul style={{textAlign: "center"}}>{clientOptions.map(item => <li style={{fontSize: "1.2rem"}}>{item}</li>)}</ul>}                
                   {...description}
                 />
               }
               button={<ButtonGroup />}
             />
-          </Box2>
+          </Box>
         </Box>
       </Container>
     </BannerWrapper>
@@ -104,6 +100,7 @@ BannerSection.defaultProps = {
     pr: '15px',
     pl: '15px',
     width: ['100%', '70%', '60%', '50%'],
+
   },
   title: {
     fontSize: ['26px', '34px', '42px', '55px'],
