@@ -12,8 +12,12 @@ import Container from '../../../components/UI/Container';
 import Particles from '../../Agency/Particle';
 import BannerWrapper, { DiscountLabel } from './bannerSection.style';
 
-const devOptions = ["Build Your Portfolio", "Get Experience", "Land Dream Job"]
-const clientOptions = ["Rent A Dev Team", "Build An MVP/Prototype", "Hire Junior Developers"]
+const devOptions = ['Build Your Portfolio', 'Get Experience', 'Land Dream Job'];
+const clientOptions = [
+  'Build An MVP/Prototype',
+  'Rent A Dev Team',
+  'Hire Junior Developers',
+];
 
 const BannerSection = ({
   row,
@@ -26,7 +30,7 @@ const BannerSection = ({
   outlineBtnStyle,
 }) => {
   const ButtonGroup = () => (
-    <div style={{textAlign: "center"}}>
+    <div style={{ textAlign: 'center' }}>
       <Button title="LEARN MORE" {...btnStyle} />
     </div>
   );
@@ -35,19 +39,24 @@ const BannerSection = ({
       <Particles />
       <Container>
         <Box className="row" {...row}>
-          <Box className="col" {...col} >
-            <FeatureBlock 
+          <Box className="col" {...col}>
+            <FeatureBlock
               title={
                 <Heading
-                style={{textAlign: "center"}}
+                  style={{ textAlign: 'center' }}
                   content="Developer"
                   {...title}
                 />
               }
               description={
-                
                 <Text
-                  content={<ul style={{textAlign: "center"}}>{devOptions.map(item => <li style={{fontSize: "1.2rem"}}>{item}</li>)}</ul>}
+                  content={
+                    <ul style={{ textAlign: 'center' }}>
+                      {devOptions.map(item => (
+                        <li style={{ fontSize: '1.2rem' }}>{item}</li>
+                      ))}
+                    </ul>
+                  }
                   {...description}
                 />
               }
@@ -55,17 +64,24 @@ const BannerSection = ({
             />
           </Box>
           <Box className="col" {...col}>
-            <FeatureBlock style={{color: "white"}}
+            <FeatureBlock
+              style={{ color: 'white' }}
               title={
                 <Heading
-                style={{textAlign: "center"}}
+                  style={{ textAlign: 'center' }}
                   content="Client"
                   {...title}
                 />
               }
               description={
                 <Text
-                content={<ul style={{textAlign: "center"}}>{clientOptions.map(item => <li style={{fontSize: "1.2rem"}}>{item}</li>)}</ul>}                
+                  content={
+                    <ul style={{ textAlign: 'center' }}>
+                      {clientOptions.map(item => (
+                        <li style={{ fontSize: '1.2rem' }}>{item}</li>
+                      ))}
+                    </ul>
+                  }
                   {...description}
                 />
               }
@@ -100,12 +116,11 @@ BannerSection.defaultProps = {
     pr: '15px',
     pl: '15px',
     width: ['100%', '70%', '60%', '50%'],
-
   },
   title: {
     fontSize: ['26px', '34px', '42px', '55px'],
     fontWeight: '300',
-   // color: '#0f2137',
+    // color: '#0f2137',
     letterSpacing: '-0.025em',
     mb: ['20px', '25px'],
     lineHeight: '1.31',
